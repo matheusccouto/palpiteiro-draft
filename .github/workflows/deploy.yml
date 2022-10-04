@@ -1,0 +1,56 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - main
+      - dev
+    paths:
+      - .github/workflows/deploy.yml
+      - serverless.yml
+      - requirements-*.txt
+      - utils/**
+      - date_filter/*.py
+      - draft/*.py
+      - draft/draft/*.py
+      - dropout/*.py
+      - read_bigquery/*.py
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: ${{ github.REF_NAME }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16.x
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: 3.9
+
+      - name: Set up Serverless
+        run: |
+          npm install -g serverless@3
+          npm install --save-dev serverless-step-functions
+
+      - name: Serverless AWS Authentication
+        run: |
+          sls config credentials \
+          --provider aws \
+          --key ${{ secrets.AWS_ACCESS_KEY_ID }} \
+          --secret ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+
+      - name: Make Layers
+        run: make layers
+
+      - name: Deploy
+        run: sls deploy --stage ${{ github.REF_NAME }} --conceal
+        env:
+          GCP_KEYFILE: ${{ secrets.GCP_KEYFILE }}

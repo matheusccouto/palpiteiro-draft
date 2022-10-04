@@ -1,0 +1,170 @@
+service: palpiteiro-draft
+frameworkVersion: "3"
+
+custom:
+  account: "#{AWS::AccountId}"
+
+provider:
+  name: aws
+  stage: ${opt:stage}
+  region: us-east-1
+  deploymentBucket: palpiteiro-${opt:stage}
+  apiGateway:
+    apiKeys:
+      - streamlit-${opt:stage}
+
+package:
+  individually: true
+  patterns:
+    - "!**/*"
+    - "utils/**/*.py"
+
+functions:
+  draft:
+    handler: draft.handler
+    description: Line up drafting for fantasy soccer.
+    runtime: python3.9
+    timeout: 5 # seconds
+    memorySize: 2048 # megabytes
+    package:
+      patterns:
+        - "draft/**/*.py"
+        - "draft/model/*"
+        - "!draft/tests/**/*"
+        - "!draft/notebooks/**/*"
+
+  dropout:
+    handler: dropout.handler
+    description: Droupout players for increasing variance for Cartola Express.
+    runtime: python3.9
+    timeout: 1 # seconds
+    memorySize: 128 # megabytes
+    package:
+      patterns:
+        - "dropout/**/*.py"
+
+  filter:
+    handler: filter.handler
+    description: Filter player by date for daily.
+    runtime: python3.9
+    timeout: 1 # seconds
+    memorySize: 128 # megabytes
+    package:
+      patterns:
+        - "filter/**/*.py"
+
+  read-gbq:
+    handler: read_bigquery.handler
+    description: Read from Google Big Query.
+    runtime: python3.9
+    timeout: 900
+    package:
+      patterns:
+        - "read_bigquery/*.py"
+    layers:
+      - { Ref: BigqueryLambdaLayer }
+    environment:
+      GCP_KEYFILE: ${env:GCP_KEYFILE}
+
+layers:
+  bigquery:
+    package:
+      artifact: layer_bigquery.zip
+
+stepFunctions:
+  stateMachines:
+    palpiteiro-draft:
+      name: ${self:service}-${opt:stage}
+      role: arn:aws:iam::${aws:accountId}:role/palpiteiro-step-functions
+      type: EXPRESS
+      events:
+        - http:
+            path: draft
+            method: POST
+            private: true
+            action: StartSyncExecution
+            request:
+              template:
+                application/json: |
+                  #set( $body = $util.escapeJavaScript($input.json('$')).replaceAll("\\'", "'") )
+                  {
+                    "input": "$body",
+                    "stateMachineArn": "arn:aws:states:${self:provider.region}:${aws:accountId}:stateMachine:${self:service}-${opt:stage}"
+                  }
+      definition:
+        StartAt: Choice
+        States:
+          Choice:
+            Type: Choice
+            Choices:
+              - Variable: "$.game"
+                StringEquals: cartola-express
+                Next: Cartola Express
+              - Variable: "$.game"
+                StringEquals: custom
+                Next: Custom
+            Default: Cartola
+          Cartola Express:
+            Type: Pass
+            Next: Read Google Big Query
+            Result:
+              query: SELECT *, price_cartola_express AS price FROM palpiteiro.dim_player_last
+            ResultPath: "$.output"
+          Cartola:
+            Type: Pass
+            Next: Read Google Big Query
+            Result:
+              query: SELECT *, price_cartola AS price FROM palpiteiro.dim_player_last
+            ResultPath: "$.output"
+          Custom:
+            Type: Pass
+            Next: Dropout
+          Read Google Big Query:
+            Type: Task
+            Resource: arn:aws:states:::lambda:invoke
+            Parameters:
+              FunctionName:
+                Fn::GetAtt: [read-gbq, Arn]
+              Payload.$: "$"
+            InputPath: "$.output"
+            ResultSelector:
+              players.$: $.Payload
+            ResultPath: "$.output"
+            Next: Filter
+          Filter:
+            Type: Task
+            Resource: arn:aws:states:::lambda:invoke
+            Parameters:
+              FunctionName:
+                Fn::GetAtt: [filter, Arn]
+              Payload:
+                players.$: $.output.players
+                scheme.$: $.scheme
+                price.$: $.price
+                max_players_per_club.$: $.max_players_per_club
+                bench.$: $.bench
+                date.$: $.date
+                dropout.$: $.dropout
+            OutputPath: $.Payload
+            Next: Dropout
+          Dropout:
+            Type: Task
+            Resource: arn:aws:states:::lambda:invoke
+            Parameters:
+              FunctionName:
+                Fn::GetAtt: [dropout, Arn]
+              Payload.$: "$"
+            OutputPath: $.Payload
+            Next: Draft
+          Draft:
+            Type: Task
+            Resource: arn:aws:states:::lambda:invoke
+            Parameters:
+              FunctionName:
+                Fn::GetAtt: [draft, Arn]
+              Payload.$: "$"
+            OutputPath: "$.Payload"
+            End: true
+
+plugins:
+  - serverless-step-functions

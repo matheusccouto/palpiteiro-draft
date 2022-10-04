@@ -43,15 +43,15 @@ functions:
       patterns:
         - "dropout/**/*.py"
 
-  filter:
-    handler: filter.handler
+  date-filter:
+    handler: date_filter.handler
     description: Filter player by date for daily.
     runtime: python3.9
     timeout: 1 # seconds
     memorySize: 128 # megabytes
     package:
       patterns:
-        - "filter/**/*.py"
+        - "date_filter/**/*.py"
 
   read-gbq:
     handler: read_bigquery.handler
@@ -130,13 +130,13 @@ stepFunctions:
             ResultSelector:
               players.$: $.Payload
             ResultPath: "$.output"
-            Next: Filter
-          Filter:
+            Next: Date Filter
+          Date Filter:
             Type: Task
             Resource: arn:aws:states:::lambda:invoke
             Parameters:
               FunctionName:
-                Fn::GetAtt: [filter, Arn]
+                Fn::GetAtt: [date-filter, Arn]
               Payload:
                 players.$: $.output.players
                 scheme.$: $.scheme

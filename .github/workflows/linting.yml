@@ -1,0 +1,42 @@
+name: Linting
+
+on:
+  pull_request:
+    branches:
+      - main
+      - dev
+  
+jobs:
+  linting:
+    runs-on: ubuntu-latest
+    environment: ${{ github.BASE_REF }}
+
+    strategy:
+      fail-fast: false
+      matrix:
+        path:
+          - date_filter
+          - draft
+          - dropout
+          - read_bigquery
+          - utils
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: 3.9
+
+      - name: Install requirements
+        run: |
+          python -m pip install --upgrade pip wheel
+          python -m pip install pylint pytest
+          if [ -f requirements-test.txt ]; then pip install -r requirements-test.txt; fi
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        working-directory: ./${{ matrix.path }}
+
+      - name: Lint
+        run: pylint ${{ matrix.path }}

@@ -19,7 +19,6 @@ jobs:
           - draft
           - dropout
           - read_bigquery
-          - utils
 
     steps:
       - name: Checkout repo

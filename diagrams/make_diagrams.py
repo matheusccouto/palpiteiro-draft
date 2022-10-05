@@ -3,12 +3,11 @@
 # pylint: disable=expression-not-assigned
 
 import os
+from wsgiref.util import application_uri
 
-from diagrams import Cluster, Diagram, Edge
+from diagrams import Cluster, Diagram
 from diagrams.aws.compute import Lambda
-from diagrams.aws.integration import StepFunctions
 from diagrams.aws.network import APIGateway
-from diagrams.aws.storage import S3
 from diagrams.custom import Custom
 from diagrams.gcp.analytics import Bigquery
 from diagrams.onprem.ci import GithubActions
@@ -19,28 +18,23 @@ from diagrams.programming.language import Python
 THIS_DIR = os.path.dirname(__file__)
 ICONS_DIR = os.path.join(THIS_DIR, "icons")
 
+
 with Diagram(
     "\napi",
     filename=os.path.join(THIS_DIR, "api"),
     show=False,
     curvestyle="curved",
 ):
-    APIGateway("post") >> StepFunctions("draft")
-
-
-with Diagram(
-    "\ndraft",
-    filename=os.path.join(THIS_DIR, "draft"),
-    show=False,
-    curvestyle="curved",
-):
-    (
-        Bigquery("dim_player_last")
-        >> Lambda("read")
-        >> Lambda("filter")
-        >> Lambda("dropout")
-        >> Lambda("draft")
-    )
+    api = APIGateway("post")
+    with Cluster("Step Function"):
+        (
+            api
+            >> Bigquery("dim_player_last")
+            >> Lambda("read")
+            >> Lambda("filter")
+            >> Lambda("dropout")
+            >> Lambda("draft")
+        )
 
 
 with Diagram(

@@ -1,4 +1,4 @@
-# Palpiteiro Draft
+# :soccer: Palpiteiro Draft
 HTTP API to draft a line up using genetic algorithm.
 
 ## Architecture

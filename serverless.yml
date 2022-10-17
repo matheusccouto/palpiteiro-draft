@@ -24,7 +24,7 @@ functions:
     handler: draft.handler
     description: Line up drafting for fantasy soccer.
     runtime: python3.9
-    timeout: 5 # seconds
+    timeout: 10 # seconds
     memorySize: 2048 # megabytes
     package:
       patterns:

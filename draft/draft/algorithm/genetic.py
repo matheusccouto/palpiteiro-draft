@@ -15,8 +15,8 @@ class Genetic(BaseAlgorithm):
     def __init__(
         self,
         players: List[Player],
-        n_generations: int = 350,
-        n_individuals: int = 150,
+        n_generations: int = 200,
+        n_individuals: int = 500,
         n_elite: int = 10,
         crossover_proba: float = 0.5,
         mutation_proba: float = 0.5,

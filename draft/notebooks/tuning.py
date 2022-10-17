@@ -46,7 +46,7 @@ SCHEME = Scheme(
 # ## Load Players Data
 
 # %%
-from tests.helper import load_players
+from draft.tests.helper import load_players
 
 players = load_players()
 print(f"There are {len(players)} players in this set.")
@@ -62,14 +62,15 @@ import itertools
 
 import num2words
 
-from draft.algorithm import players_per_position
+from draft.draft.algorithm import players_per_position
 
 by_pos = players_per_position(players)
 
 positions_combos = {}
 length = 1
+scheme_dict = SCHEME.to_dict()
 for key, val in by_pos.items():
-    positions_combos[key] = list(itertools.combinations(by_pos[key], r=SCHEME[key]))
+    positions_combos[key] = list(itertools.combinations(by_pos[key], r=scheme_dict[key]))
     print(f"{key.capitalize()}: {len(positions_combos[key])}")
     length *= len(positions_combos[key])
 
@@ -82,7 +83,7 @@ print(f"\nThere are {num2words.num2words(length)} combinations")
 # %%
 import random
 
-from draft import LineUp
+from draft.draft import LineUp
 
 N_TIMES = 10000
 
@@ -171,7 +172,7 @@ import plotly.express as px
 
 MAX_POINTS = max_points  # team points
 MAX_DIFF = 0.1  # Difference ratio
-MAX_TIME = 3  # Seconds
+MAX_TIME = 10  # Seconds
 
 
 def metric(points, diff, time_elapsed):
@@ -223,7 +224,7 @@ import time
 import optuna
 import optuna.logging
 
-from draft.algorithm.genetic import Genetic
+from draft.draft.algorithm.genetic import Genetic
 
 optuna.logging.set_verbosity(optuna.logging.ERROR)
 
@@ -260,14 +261,14 @@ def score(algo):
     price = np.mean(price)
 
     # Line up diff
-    id_sets = [set(line_up.players) for line_up in line_ups]
+    id_sets = [set([p.id for p in line_up.players]) for line_up in line_ups]
     diff = [
         len(left.difference(right))
         for i, left in enumerate(id_sets)
         for j, right in enumerate(id_sets)
         if i != j
     ]
-    diff = np.mean(diff) / sum(SCHEME.values())
+    diff = np.mean(diff) / 11 # FIXME
 
     return {
         "score": metric(points, diff, time_elapsed),

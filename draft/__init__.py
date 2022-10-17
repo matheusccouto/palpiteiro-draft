@@ -21,7 +21,8 @@ def handler(event, context):  # pylint: disable=unused-argument
         for player in event["players"]
     ]
 
-    line_up = Genetic(players).draft(price, scheme, max_players_per_club)
+    algo = Genetic(players, n_generations=409, n_individuals=470)
+    line_up = algo.draft(price, scheme, max_players_per_club)
 
     players = [player.id for player in line_up.players]
     bench = [player.id for player in line_up.bench]

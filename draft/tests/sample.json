@@ -1,1591 +1,2576 @@
 [
 	{
-		"id": 42234,
-		"club": 264,
-		"position": "goalkeeper",
-		"points": 12,
-		"price": 8.74
-	},
-	{
-		"id": 68872,
-		"club": 285,
-		"position": "goalkeeper",
-		"points": 4.6,
-		"price": 8.78
-	},
-	{
-		"id": 69012,
-		"club": 293,
-		"position": "goalkeeper",
-		"points": 9,
-		"price": 7.44
-	},
-	{
-		"id": 71571,
-		"club": 267,
-		"position": "goalkeeper",
-		"points": -4.4,
-		"price": 6.95
-	},
-	{
-		"id": 72018,
-		"club": 276,
-		"position": "goalkeeper",
-		"points": -3.7,
-		"price": 10.95
-	},
-	{
-		"id": 72294,
-		"club": 282,
-		"position": "goalkeeper",
-		"points": 6.2,
-		"price": 9.35
-	},
-	{
-		"id": 72372,
-		"club": 356,
-		"position": "goalkeeper",
-		"points": -0.8,
-		"price": 3.75
-	},
-	{
-		"id": 78584,
-		"club": 265,
-		"position": "goalkeeper",
-		"points": 8.7,
-		"price": 10.21
-	},
-	{
-		"id": 82453,
-		"club": 290,
-		"position": "goalkeeper",
-		"points": 5.7,
-		"price": 8.84
-	},
-	{
-		"id": 85004,
-		"club": 266,
-		"position": "goalkeeper",
-		"points": 8.7,
-		"price": 3.12
-	},
-	{
-		"id": 85425,
-		"club": 277,
-		"position": "goalkeeper",
-		"points": -0.4,
-		"price": 6.52
-	},
-	{
-		"id": 88916,
-		"club": 292,
-		"position": "goalkeeper",
-		"points": -4.5,
-		"price": 3.55
-	},
-	{
-		"id": 90933,
-		"club": 373,
-		"position": "goalkeeper",
-		"points": -2.6,
-		"price": 9.5
-	},
-	{
-		"id": 93882,
-		"club": 280,
-		"position": "goalkeeper",
-		"points": 4.1,
-		"price": 1.98
-	},
-	{
-		"id": 99430,
-		"club": 263,
-		"position": "goalkeeper",
-		"points": 0.3,
-		"price": 1
-	},
-	{
-		"id": 101173,
-		"club": 294,
-		"position": "goalkeeper",
-		"points": 1.6,
-		"price": 1.36
-	},
-	{
-		"id": 101574,
-		"club": 262,
-		"position": "goalkeeper",
-		"points": -4.3,
-		"price": 1.8
-	},
-	{
-		"id": 37662,
-		"club": 293,
-		"position": "fullback",
-		"points": 4.2,
-		"price": 8.71
-	},
-	{
-		"id": 37866,
-		"club": 267,
-		"position": "fullback",
-		"points": -3.1,
-		"price": 4.5
-	},
-	{
-		"id": 38229,
-		"club": 264,
-		"position": "fullback",
-		"points": 8,
-		"price": 7.75
-	},
-	{
-		"id": 38750,
-		"club": 262,
-		"position": "fullback",
-		"points": 4.4,
-		"price": 7.66
-	},
-	{
-		"id": 50645,
-		"club": 354,
-		"position": "fullback",
-		"points": 3.2,
-		"price": 3.49
-	},
-	{
-		"id": 60969,
-		"club": 292,
-		"position": "fullback",
-		"points": 0,
-		"price": 7.69
-	},
-	{
-		"id": 62024,
-		"club": 280,
-		"position": "fullback",
-		"points": 3,
-		"price": 4.46
-	},
-	{
-		"id": 63013,
-		"club": 275,
-		"position": "fullback",
-		"points": 0,
-		"price": 7.71
-	},
-	{
-		"id": 68808,
-		"club": 265,
-		"position": "fullback",
-		"points": 7.2,
-		"price": 8.92
-	},
-	{
-		"id": 69345,
-		"club": 262,
-		"position": "fullback",
-		"points": -0.9,
-		"price": 8.35
-	},
-	{
-		"id": 72079,
-		"club": 284,
-		"position": "fullback",
-		"points": 1.8,
-		"price": 8.85
-	},
-	{
-		"id": 78497,
-		"club": 373,
-		"position": "fullback",
-		"points": -0.8,
-		"price": 2.89
-	},
-	{
-		"id": 82628,
-		"club": 356,
-		"position": "fullback",
-		"points": 0.6,
-		"price": 6.12
-	},
-	{
-		"id": 84339,
-		"club": 356,
-		"position": "fullback",
-		"points": 0,
-		"price": 4.3
-	},
-	{
-		"id": 84382,
-		"club": 266,
-		"position": "fullback",
-		"points": 4.4,
-		"price": 3.5
-	},
-	{
-		"id": 84893,
-		"club": 267,
-		"position": "fullback",
-		"points": 1.9,
-		"price": 6.38
-	},
-	{
-		"id": 86713,
-		"club": 294,
-		"position": "fullback",
-		"points": 3.5,
-		"price": 5
-	},
-	{
-		"id": 87228,
-		"club": 282,
-		"position": "fullback",
-		"points": 8.8,
-		"price": 17.41
-	},
-	{
-		"id": 88423,
-		"club": 280,
-		"position": "fullback",
-		"points": 5.8,
-		"price": 9.88
-	},
-	{
-		"id": 89343,
-		"club": 292,
-		"position": "fullback",
-		"points": 1.2,
-		"price": 5.44
-	},
-	{
-		"id": 90444,
-		"club": 285,
-		"position": "fullback",
-		"points": 7.3,
-		"price": 11.05
-	},
-	{
-		"id": 91888,
-		"club": 263,
-		"position": "fullback",
-		"points": -2,
-		"price": 2.57
-	},
-	{
-		"id": 95127,
-		"club": 373,
-		"position": "fullback",
-		"points": 1.6,
-		"price": 6.85
-	},
-	{
-		"id": 95220,
-		"club": 290,
-		"position": "fullback",
-		"points": 2.3,
-		"price": 5.85
-	},
-	{
-		"id": 95466,
-		"club": 276,
-		"position": "fullback",
-		"points": -1.3,
-		"price": 4.68
-	},
-	{
-		"id": 97899,
-		"club": 265,
-		"position": "fullback",
-		"points": 9.5,
-		"price": 3.29
-	},
-	{
-		"id": 100846,
-		"club": 275,
-		"position": "fullback",
-		"points": 1.6,
-		"price": 1.73
-	},
-	{
-		"id": 101319,
-		"club": 282,
-		"position": "fullback",
-		"points": 6.4,
-		"price": 13.64
-	},
-	{
-		"id": 102464,
-		"club": 354,
-		"position": "fullback",
-		"points": 0.4,
-		"price": 1.97
-	},
-	{
-		"id": 104276,
-		"club": 266,
-		"position": "fullback",
-		"points": 7.7,
-		"price": 7.12
-	},
-	{
-		"id": 104513,
-		"club": 293,
-		"position": "fullback",
-		"points": 5.4,
-		"price": 10.2
-	},
-	{
-		"id": 104649,
-		"club": 285,
-		"position": "fullback",
-		"points": 10.4,
-		"price": 6.5
-	},
-	{
-		"id": 106824,
-		"club": 276,
-		"position": "fullback",
-		"points": -3.1,
-		"price": 0.77
-	},
-	{
-		"id": 107750,
-		"club": 284,
-		"position": "fullback",
-		"points": 1,
-		"price": 2.16
-	},
-	{
-		"id": 109668,
-		"club": 263,
-		"position": "fullback",
-		"points": -1.9,
-		"price": 1.41
-	},
-	{
-		"id": 109963,
-		"club": 275,
-		"position": "fullback",
-		"points": 0.7,
-		"price": 1.29
-	},
-	{
-		"id": 38505,
-		"club": 267,
-		"position": "defender",
-		"points": 1.5,
-		"price": 11.65
-	},
-	{
-		"id": 38632,
-		"club": 266,
-		"position": "defender",
-		"points": 16.5,
-		"price": 7.87
-	},
-	{
-		"id": 49651,
-		"club": 265,
-		"position": "defender",
-		"points": 5.5,
-		"price": 6.35
-	},
-	{
-		"id": 52253,
-		"club": 282,
-		"position": "defender",
-		"points": 0,
-		"price": 7.32
-	},
-	{
-		"id": 61141,
-		"club": 280,
-		"position": "defender",
-		"points": 4.9,
-		"price": 5.32
-	},
-	{
-		"id": 63172,
-		"club": 356,
-		"position": "defender",
-		"points": 0.4,
-		"price": 3.16
-	},
-	{
-		"id": 68923,
-		"club": 264,
-		"position": "defender",
-		"points": 5.7,
-		"price": 6.85
-	},
-	{
-		"id": 71604,
-		"club": 290,
-		"position": "defender",
-		"points": -1.1,
-		"price": 6.09
-	},
-	{
-		"id": 73465,
-		"club": 266,
-		"position": "defender",
-		"points": 4.6,
-		"price": 7.11
-	},
-	{
-		"id": 73620,
-		"club": 276,
-		"position": "defender",
-		"points": 0.8,
-		"price": 7.35
-	},
-	{
-		"id": 73800,
-		"club": 262,
-		"position": "defender",
-		"points": 0.2,
-		"price": 7.84
-	},
-	{
-		"id": 78248,
-		"club": 262,
-		"position": "defender",
-		"points": 5.8,
-		"price": 6.14
-	},
-	{
-		"id": 79035,
-		"club": 277,
-		"position": "defender",
-		"points": -0.2,
-		"price": 3.07
-	},
-	{
-		"id": 79113,
-		"club": 285,
-		"position": "defender",
-		"points": 10.6,
-		"price": 11.77
-	},
-	{
-		"id": 80189,
-		"club": 265,
-		"position": "defender",
-		"points": 4.6,
-		"price": 4.77
-	},
-	{
-		"id": 82773,
-		"club": 373,
-		"position": "defender",
-		"points": 7.6,
-		"price": 5.82
-	},
-	{
-		"id": 83048,
-		"club": 292,
-		"position": "defender",
-		"points": 0,
-		"price": 3.09
-	},
-	{
-		"id": 84263,
-		"club": 264,
-		"position": "defender",
-		"points": 8.1,
-		"price": 7.37
-	},
-	{
-		"id": 87225,
-		"club": 293,
-		"position": "defender",
-		"points": 5.1,
-		"price": 6.31
-	},
-	{
-		"id": 88033,
-		"club": 275,
-		"position": "defender",
-		"points": 0,
-		"price": 5.34
-	},
-	{
-		"id": 88312,
-		"club": 282,
-		"position": "defender",
-		"points": 4.4,
-		"price": 10.49
-	},
-	{
-		"id": 89226,
-		"club": 292,
-		"position": "defender",
-		"points": 3,
-		"price": 6.63
-	},
-	{
-		"id": 90846,
-		"club": 354,
-		"position": "defender",
-		"points": -6,
-		"price": 2.37
-	},
-	{
-		"id": 91251,
-		"club": 284,
-		"position": "defender",
-		"points": 2,
-		"price": 2.58
-	},
-	{
-		"id": 91573,
-		"club": 276,
-		"position": "defender",
-		"points": -2.4,
-		"price": 7.55
-	},
-	{
-		"id": 91664,
-		"club": 292,
-		"position": "defender",
-		"points": -1.7,
-		"price": 3.18
-	},
-	{
-		"id": 91772,
-		"club": 290,
-		"position": "defender",
-		"points": 3.1,
-		"price": 5.17
-	},
-	{
-		"id": 91866,
-		"club": 293,
-		"position": "defender",
-		"points": 8,
-		"price": 6.61
-	},
-	{
-		"id": 94514,
-		"club": 373,
-		"position": "defender",
-		"points": 1.7,
-		"price": 3
-	},
-	{
-		"id": 95638,
-		"club": 263,
-		"position": "defender",
-		"points": 2,
-		"price": 6.23
-	},
-	{
-		"id": 96382,
-		"club": 356,
-		"position": "defender",
-		"points": 0,
-		"price": 1.74
-	},
-	{
-		"id": 98619,
-		"club": 275,
-		"position": "defender",
-		"points": 0.6,
-		"price": 5.93
-	},
-	{
-		"id": 99881,
-		"club": 267,
-		"position": "defender",
-		"points": 18.5,
-		"price": 9.72
-	},
-	{
-		"id": 100842,
-		"club": 284,
-		"position": "defender",
-		"points": 1.7,
-		"price": 0.92
-	},
-	{
-		"id": 101600,
-		"club": 277,
-		"position": "defender",
-		"points": 3.7,
-		"price": 2.82
-	},
-	{
-		"id": 101728,
-		"club": 276,
-		"position": "defender",
-		"points": 1.1,
-		"price": 2.97
-	},
-	{
-		"id": 103088,
-		"club": 285,
-		"position": "defender",
-		"points": 7.5,
-		"price": 4.83
-	},
-	{
-		"id": 103700,
-		"club": 264,
-		"position": "defender",
-		"points": 5.9,
-		"price": 3.07
-	},
-	{
-		"id": 104994,
-		"club": 277,
-		"position": "defender",
-		"points": 3.5,
-		"price": 2.62
-	},
-	{
-		"id": 107509,
-		"club": 263,
-		"position": "defender",
-		"points": 3.7,
-		"price": 1.47
-	},
-	{
-		"id": 108176,
-		"club": 354,
-		"position": "defender",
-		"points": -3,
-		"price": 2.34
-	},
-	{
-		"id": 111204,
-		"club": 294,
-		"position": "defender",
-		"points": 1.3,
-		"price": 1.18
-	},
-	{
-		"id": 38277,
-		"club": 292,
-		"position": "midfielder",
-		"points": 2.6,
-		"price": 5.29
-	},
-	{
-		"id": 38315,
-		"club": 293,
-		"position": "midfielder",
-		"points": 0.8,
-		"price": 3.53
-	},
-	{
-		"id": 38909,
-		"club": 262,
-		"position": "midfielder",
-		"points": -1.9,
-		"price": 4.68
-	},
-	{
-		"id": 38913,
-		"club": 266,
-		"position": "midfielder",
-		"points": 5.2,
-		"price": 13.03
-	},
-	{
-		"id": 38939,
-		"club": 276,
-		"position": "midfielder",
-		"points": 4.8,
-		"price": 10.6
-	},
-	{
-		"id": 50301,
-		"club": 284,
-		"position": "midfielder",
-		"points": 3,
-		"price": 5.08
-	},
-	{
-		"id": 50324,
-		"club": 266,
-		"position": "midfielder",
-		"points": 0,
-		"price": 5.05
-	},
-	{
-		"id": 51772,
-		"club": 262,
-		"position": "midfielder",
-		"points": 3.1,
-		"price": 9.4
-	},
-	{
-		"id": 61033,
-		"club": 265,
-		"position": "midfielder",
-		"points": 3.1,
-		"price": 13.24
-	},
-	{
-		"id": 63289,
-		"club": 285,
-		"position": "midfielder",
-		"points": 3,
-		"price": 9.04
-	},
-	{
-		"id": 69705,
-		"club": 293,
-		"position": "midfielder",
-		"points": 10,
-		"price": 10.18
-	},
-	{
-		"id": 70986,
-		"club": 293,
-		"position": "midfielder",
-		"points": 13.3,
-		"price": 13.77
-	},
-	{
-		"id": 71162,
-		"club": 354,
-		"position": "midfielder",
-		"points": 2.7,
-		"price": 11.34
-	},
-	{
-		"id": 71937,
-		"club": 356,
-		"position": "midfielder",
-		"points": 6.9,
-		"price": 5.08
-	},
-	{
-		"id": 78548,
-		"club": 277,
-		"position": "midfielder",
-		"points": 0,
-		"price": 3.71
-	},
-	{
-		"id": 78715,
-		"club": 264,
-		"position": "midfielder",
-		"points": 2.6,
-		"price": 6.17
-	},
-	{
-		"id": 78856,
-		"club": 292,
-		"position": "midfielder",
-		"points": 2.1,
-		"price": 4.36
-	},
-	{
-		"id": 78865,
-		"club": 285,
-		"position": "midfielder",
-		"points": -0.7,
-		"price": 4.93
-	},
-	{
-		"id": 80583,
-		"club": 275,
-		"position": "midfielder",
-		"points": 6,
-		"price": 5.45
-	},
-	{
-		"id": 81091,
-		"club": 282,
-		"position": "midfielder",
-		"points": 9.8,
-		"price": 8.83
-	},
-	{
-		"id": 81682,
-		"club": 264,
-		"position": "midfielder",
-		"points": 2.5,
-		"price": 9.23
-	},
-	{
-		"id": 82455,
-		"club": 275,
-		"position": "midfielder",
-		"points": 1.4,
-		"price": 8.86
-	},
-	{
-		"id": 82876,
-		"club": 292,
-		"position": "midfielder",
-		"points": 0.6,
-		"price": 4.19
-	},
-	{
-		"id": 83433,
-		"club": 285,
-		"position": "midfielder",
-		"points": 3.3,
-		"price": 12.39
-	},
-	{
-		"id": 85315,
-		"club": 264,
-		"position": "midfielder",
-		"points": -1.6,
-		"price": 4.64
-	},
-	{
-		"id": 85931,
-		"club": 282,
-		"position": "midfielder",
-		"points": 3.4,
-		"price": 11.87
-	},
-	{
-		"id": 86686,
-		"club": 276,
-		"position": "midfielder",
-		"points": -0.8,
-		"price": 7.05
-	},
-	{
-		"id": 87262,
-		"club": 373,
-		"position": "midfielder",
-		"points": -0.3,
-		"price": 2.61
-	},
-	{
-		"id": 87470,
-		"club": 284,
-		"position": "midfielder",
-		"points": 0.3,
-		"price": 4.85
-	},
-	{
-		"id": 87747,
-		"club": 266,
-		"position": "midfielder",
-		"points": 0.7,
-		"price": 4.42
-	},
-	{
-		"id": 87863,
-		"club": 262,
-		"position": "midfielder",
-		"points": 6.2,
-		"price": 17.87
-	},
-	{
-		"id": 87999,
-		"club": 275,
-		"position": "midfielder",
-		"points": 3.2,
-		"price": 6.07
-	},
-	{
-		"id": 89256,
-		"club": 262,
-		"position": "midfielder",
-		"points": 2.4,
-		"price": 9.39
-	},
-	{
-		"id": 92496,
-		"club": 280,
-		"position": "midfielder",
-		"points": 1.1,
-		"price": 9.04
-	},
-	{
-		"id": 92981,
-		"club": 265,
-		"position": "midfielder",
-		"points": 4.5,
-		"price": 4.34
-	},
-	{
-		"id": 93108,
-		"club": 264,
-		"position": "midfielder",
-		"points": 0.9,
-		"price": 5.28
-	},
-	{
-		"id": 94269,
-		"club": 263,
-		"position": "midfielder",
-		"points": 2.4,
-		"price": 2.05
-	},
-	{
-		"id": 95464,
-		"club": 265,
-		"position": "midfielder",
-		"points": 3.7,
-		"price": 5.71
-	},
-	{
-		"id": 95770,
-		"club": 280,
-		"position": "midfielder",
-		"points": 4.3,
-		"price": 2.92
-	},
-	{
-		"id": 96340,
-		"club": 354,
-		"position": "midfielder",
-		"points": 1.7,
-		"price": 6.22
-	},
-	{
-		"id": 96342,
-		"club": 354,
-		"position": "midfielder",
-		"points": 1.8,
-		"price": 6.39
-	},
-	{
-		"id": 96652,
-		"club": 282,
-		"position": "midfielder",
-		"points": -2.8,
-		"price": 5.31
-	},
-	{
-		"id": 97520,
-		"club": 290,
-		"position": "midfielder",
-		"points": -0.2,
-		"price": 3.49
-	},
-	{
-		"id": 98529,
-		"club": 354,
-		"position": "midfielder",
-		"points": 8.2,
-		"price": 2.67
-	},
-	{
-		"id": 99440,
-		"club": 373,
-		"position": "midfielder",
-		"points": 5,
-		"price": 4.35
-	},
-	{
-		"id": 100107,
-		"club": 284,
-		"position": "midfielder",
-		"points": 3.2,
-		"price": 5.9
-	},
-	{
-		"id": 100969,
-		"club": 356,
-		"position": "midfielder",
-		"points": 2,
-		"price": 3.01
-	},
-	{
-		"id": 101315,
-		"club": 294,
-		"position": "midfielder",
-		"points": 1.2,
-		"price": 2.91
-	},
-	{
-		"id": 101594,
-		"club": 294,
-		"position": "midfielder",
-		"points": 1,
-		"price": 3.34
-	},
-	{
-		"id": 101595,
-		"club": 356,
-		"position": "midfielder",
-		"points": -0.2,
-		"price": 1.59
-	},
-	{
-		"id": 102565,
-		"club": 290,
-		"position": "midfielder",
-		"points": 3.8,
-		"price": 2.48
-	},
-	{
-		"id": 102909,
-		"club": 276,
-		"position": "midfielder",
-		"points": -0.7,
-		"price": 3.01
-	},
-	{
-		"id": 104502,
-		"club": 293,
-		"position": "midfielder",
-		"points": 2.3,
-		"price": 1.16
-	},
-	{
-		"id": 104504,
-		"club": 294,
-		"position": "midfielder",
-		"points": 0,
-		"price": 1.58
-	},
-	{
-		"id": 104526,
-		"club": 294,
-		"position": "midfielder",
-		"points": 8.3,
-		"price": 2.89
-	},
-	{
-		"id": 104580,
-		"club": 277,
-		"position": "midfielder",
-		"points": -0.4,
-		"price": 1.54
-	},
-	{
-		"id": 104593,
-		"club": 284,
-		"position": "midfielder",
-		"points": 0,
-		"price": 3.97
-	},
-	{
-		"id": 105294,
-		"club": 265,
-		"position": "midfielder",
-		"points": -1.5,
-		"price": 0.77
-	},
-	{
-		"id": 106083,
-		"club": 290,
-		"position": "midfielder",
-		"points": 0.8,
-		"price": 3.89
-	},
-	{
-		"id": 106202,
-		"club": 267,
-		"position": "midfielder",
-		"points": 2,
-		"price": 3.01
-	},
-	{
-		"id": 107231,
-		"club": 275,
-		"position": "midfielder",
-		"points": 2.3,
-		"price": 2.03
-	},
-	{
-		"id": 107259,
-		"club": 290,
-		"position": "midfielder",
-		"points": 4.9,
-		"price": 1.84
-	},
-	{
-		"id": 107516,
-		"club": 263,
-		"position": "midfielder",
-		"points": -0.2,
-		"price": 0.85
-	},
-	{
-		"id": 107744,
-		"club": 285,
-		"position": "midfielder",
-		"points": -1,
-		"price": 0.96
-	},
-	{
-		"id": 107746,
-		"club": 263,
-		"position": "midfielder",
-		"points": -0.6,
-		"price": 0.79
-	},
-	{
-		"id": 109588,
-		"club": 264,
-		"position": "midfielder",
-		"points": 0,
-		"price": 0.79
-	},
-	{
-		"id": 110605,
-		"club": 277,
-		"position": "midfielder",
-		"points": 3.2,
-		"price": 4.46
-	},
-	{
-		"id": 110962,
-		"club": 263,
-		"position": "midfielder",
-		"points": 5.1,
-		"price": 2.45
-	},
-	{
-		"id": 37655,
-		"club": 290,
-		"position": "forward",
-		"points": 3.5,
-		"price": 6.39
-	},
-	{
-		"id": 38162,
-		"club": 266,
-		"position": "forward",
-		"points": 12,
-		"price": 5.39
-	},
-	{
-		"id": 38279,
-		"club": 356,
-		"position": "forward",
-		"points": -0.6,
-		"price": 7.15
-	},
-	{
-		"id": 38910,
-		"club": 294,
-		"position": "forward",
-		"points": 8.1,
-		"price": 6.95
-	},
-	{
-		"id": 53148,
-		"club": 280,
-		"position": "forward",
-		"points": 6.3,
-		"price": 7.48
-	},
-	{
-		"id": 61149,
-		"club": 266,
-		"position": "forward",
-		"points": 1.8,
-		"price": 5.11
-	},
-	{
-		"id": 61188,
-		"club": 265,
-		"position": "forward",
-		"points": 2.9,
-		"price": 8.71
-	},
-	{
-		"id": 62033,
-		"club": 290,
-		"position": "forward",
-		"points": 17.4,
-		"price": 8.31
-	},
-	{
-		"id": 69138,
-		"club": 276,
-		"position": "forward",
-		"points": 7.6,
-		"price": 7.88
-	},
-	{
-		"id": 70360,
-		"club": 282,
-		"position": "forward",
-		"points": 7.4,
-		"price": 9.01
-	},
-	{
-		"id": 79631,
-		"club": 267,
-		"position": "forward",
-		"points": 11.1,
-		"price": 14.28
-	},
-	{
-		"id": 80287,
-		"club": 276,
-		"position": "forward",
-		"points": 10.4,
-		"price": 11.15
-	},
-	{
-		"id": 81798,
-		"club": 265,
-		"position": "forward",
-		"points": 9,
-		"price": 6.87
-	},
-	{
-		"id": 81898,
-		"club": 294,
-		"position": "forward",
-		"points": 0.7,
-		"price": 2.57
-	},
-	{
-		"id": 82407,
-		"club": 373,
-		"position": "forward",
-		"points": 10,
-		"price": 6.21
-	},
-	{
-		"id": 83257,
-		"club": 262,
-		"position": "forward",
-		"points": -0.6,
-		"price": 12
-	},
-	{
-		"id": 84523,
-		"club": 356,
-		"position": "forward",
-		"points": 1,
-		"price": 8.13
-	},
-	{
-		"id": 86485,
-		"club": 282,
-		"position": "forward",
-		"points": 11.4,
-		"price": 14.75
-	},
-	{
-		"id": 90285,
-		"club": 262,
-		"position": "forward",
-		"points": 8.9,
-		"price": 13.76
-	},
-	{
-		"id": 90309,
-		"club": 356,
-		"position": "forward",
-		"points": 1.5,
-		"price": 5.23
-	},
-	{
-		"id": 92630,
-		"club": 280,
-		"position": "forward",
-		"points": 10.7,
-		"price": 16.6
-	},
-	{
-		"id": 92696,
-		"club": 293,
-		"position": "forward",
-		"points": 6.9,
-		"price": 8.27
-	},
-	{
-		"id": 93988,
-		"club": 275,
-		"position": "forward",
-		"points": 1.4,
-		"price": 3.67
-	},
-	{
-		"id": 94138,
-		"club": 354,
-		"position": "forward",
-		"points": 1.8,
-		"price": 5.74
-	},
-	{
-		"id": 95799,
-		"club": 280,
-		"position": "forward",
-		"points": 2,
-		"price": 11.81
-	},
-	{
-		"id": 96966,
-		"club": 277,
-		"position": "forward",
-		"points": 1.6,
-		"price": 3.71
-	},
-	{
-		"id": 97995,
-		"club": 292,
-		"position": "forward",
-		"points": 1.4,
-		"price": 4.15
-	},
-	{
-		"id": 98289,
-		"club": 284,
-		"position": "forward",
-		"points": 3.3,
-		"price": 8.91
-	},
-	{
-		"id": 98672,
-		"club": 282,
-		"position": "forward",
-		"points": 0.2,
-		"price": 6.2
-	},
-	{
-		"id": 98952,
-		"club": 264,
-		"position": "forward",
-		"points": 1.2,
-		"price": 4.14
-	},
-	{
-		"id": 100652,
-		"club": 285,
-		"position": "forward",
-		"points": 2.1,
-		"price": 4.59
-	},
-	{
-		"id": 101290,
-		"club": 284,
-		"position": "forward",
-		"points": 8.7,
-		"price": 5.96
-	},
-	{
-		"id": 102292,
-		"club": 292,
-		"position": "forward",
-		"points": 0.8,
-		"price": 6.45
-	},
-	{
-		"id": 104646,
-		"club": 263,
-		"position": "forward",
-		"points": 0.9,
-		"price": 2.68
-	},
-	{
-		"id": 104660,
-		"club": 290,
-		"position": "forward",
-		"points": 3,
-		"price": 5.65
-	},
-	{
-		"id": 105111,
-		"club": 277,
-		"position": "forward",
-		"points": 2,
-		"price": 4.4
-	},
-	{
-		"id": 105770,
-		"club": 263,
-		"position": "forward",
-		"points": -0.1,
-		"price": 1.85
-	},
-	{
-		"id": 105786,
-		"club": 267,
-		"position": "forward",
-		"points": 1.1,
-		"price": 9.67
-	},
-	{
-		"id": 106820,
-		"club": 354,
-		"position": "forward",
-		"points": 1.4,
-		"price": 3.53
-	},
-	{
-		"id": 106826,
-		"club": 373,
-		"position": "forward",
-		"points": 3.6,
-		"price": 1.79
-	},
-	{
-		"id": 107555,
-		"club": 294,
-		"position": "forward",
-		"points": -3.6,
-		"price": 0.77
-	},
-	{
-		"id": 107745,
-		"club": 285,
-		"position": "forward",
-		"points": 5.8,
-		"price": 5.15
-	},
-	{
-		"id": 109282,
-		"club": 266,
-		"position": "forward",
-		"points": 3,
-		"price": 3.57
-	},
-	{
-		"id": 110415,
-		"club": 277,
-		"position": "forward",
-		"points": 0.4,
-		"price": 0.79
-	},
-	{
-		"id": 36943,
-		"club": 293,
-		"position": "coach",
-		"points": 8.61,
-		"price": 9.73
-	},
-	{
+		"club": "coritiba",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
 		"id": 37245,
-		"club": 354,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "G. Ferreira",
+		"photo": "https://s.glbimg.com/es/sde/f/2021/04/27/7b5d614f3eafc2e2e12922930cd3590e_140x140.png",
+		"points": 0.9848388132271848,
 		"position": "coach",
-		"points": 2.05,
-		"price": 9.34
+		"price_cartola": 10.88,
+		"price": 10.49,
+		"timestamp": "2022-10-16T22:00:00Z"
 	},
 	{
-		"id": 37333,
-		"club": 373,
-		"position": "coach",
-		"points": 3.87,
-		"price": 9.37
+		"club": "coritiba",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+		"id": 93166,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Chancellor",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/08/12/e5c1ae862264c94a04b306f543783236_140x140.png",
+		"points": 0.9868629977657366,
+		"position": "defender",
+		"price_cartola": 4.56,
+		"price": 5.07,
+		"timestamp": "2022-10-16T22:00:00Z"
 	},
 	{
-		"id": 39850,
-		"club": 264,
-		"position": "coach",
-		"points": 5.11,
-		"price": 8.02
+		"club": "coritiba",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+		"id": 107554,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Natanael",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/23/d16a948e2d2950b3b56d30d6433483a7_140x140.png",
+		"points": 0.984728155072757,
+		"position": "fullback",
+		"price_cartola": 6.03,
+		"price": 4.2,
+		"timestamp": "2022-10-16T22:00:00Z"
 	},
 	{
-		"id": 40006,
-		"club": 285,
-		"position": "coach",
-		"points": 5.55,
-		"price": 11.54
+		"club": "coritiba",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+		"id": 105171,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Fabrício",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/28/f0649db7ef628f37d591d13a7698494f_140x140.png",
+		"points": 0.988924725854842,
+		"position": "forward",
+		"price_cartola": 8.38,
+		"price": 8.0,
+		"timestamp": "2022-10-16T22:00:00Z"
 	},
 	{
-		"id": 41327,
-		"club": 267,
-		"position": "coach",
-		"points": 5.19,
-		"price": 10.33
+		"club": "coritiba",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+		"id": 105433,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Trindade",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/07/27/9d5ef6f919571b69114a1355a02763c1_140x140.png",
+		"points": 0.9904911541200296,
+		"position": "midfielder",
+		"price_cartola": 4.08,
+		"price": 3.65,
+		"timestamp": "2022-10-16T22:00:00Z"
 	},
 	{
-		"id": 41929,
-		"club": 284,
-		"position": "coach",
-		"points": 2.83,
-		"price": 12.17
+		"club": "coritiba",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+		"id": 70449,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Gabriel",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/07/12/3c4ca01b234ad722ed92a5df218fd329_140x140.png",
+		"points": 0.987166563959975,
+		"position": "goalkeeper",
+		"price_cartola": 5.63,
+		"price": 5.93,
+		"timestamp": "2022-10-16T22:00:00Z"
 	},
 	{
-		"id": 62137,
-		"club": 356,
-		"position": "coach",
-		"points": 1.23,
-		"price": 5.64
+		"club": "coritiba",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+		"id": 68942,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "L. Castán",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/23/26b6a7aa27f2be0fabc25b57132d892c_140x140.png",
+		"points": 0.9856811089068922,
+		"position": "defender",
+		"price_cartola": 5.75,
+		"price": 6.09,
+		"timestamp": "2022-10-16T22:00:00Z"
 	},
 	{
-		"id": 70800,
-		"club": 282,
-		"position": "coach",
-		"points": 5.89,
-		"price": 14.17
+		"club": "coritiba",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+		"id": 97907,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "R. Santos",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/08/05/0c115feb4030c69c06d86bd5b7794be9_140x140.png",
+		"points": 0.9879592527948788,
+		"position": "fullback",
+		"price_cartola": 5.32,
+		"price": 4.34,
+		"timestamp": "2022-10-16T22:00:00Z"
 	},
 	{
-		"id": 73476,
-		"club": 266,
-		"position": "coach",
-		"points": 6.39,
-		"price": 10.67
+		"club": "coritiba",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+		"id": 106202,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "B. Gomes",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/07/19/b98ee2a36838adc66259da5a94b21d2c_140x140.png",
+		"points": 0.990084030901969,
+		"position": "midfielder",
+		"price_cartola": 5.91,
+		"price": 4.17,
+		"timestamp": "2022-10-16T22:00:00Z"
 	},
 	{
-		"id": 73975,
-		"club": 265,
-		"position": "coach",
-		"points": 6.83,
-		"price": 9.34
+		"club": "coritiba",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+		"id": 101254,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "A. Manga",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/02/23/2f591fe9297201b345f8815815be56ef_140x140.png",
+		"points": 0.9923932526780577,
+		"position": "forward",
+		"price_cartola": 11.66,
+		"price": 9.5,
+		"timestamp": "2022-10-16T22:00:00Z"
 	},
 	{
+		"club": "coritiba",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+		"id": 86841,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Boschilia",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/08/12/8bbade4dbabca44eb3eda2767deda745_140x140.png",
+		"points": 0.9856407829744983,
+		"position": "midfielder",
+		"price_cartola": 3.88,
+		"price": 3.88,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "fluminense",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+		"id": 109573,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Martinelli",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/20/d62bf91da00804290e9991da9ebe56a2_140x140.png",
+		"points": 1.006946060903841,
+		"position": "midfielder",
+		"price_cartola": 4.26,
+		"price": 4.08,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "fluminense",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+		"id": 73384,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "S. Xavier",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/20/ad95f595cd71bcb7d7b91177716e1d33_140x140.png",
+		"points": 1.009994272844458,
+		"position": "fullback",
+		"price_cartola": 8.47,
+		"price": 8.42,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "fluminense",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+		"id": 62977,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Ganso",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/04/20/509250387f7c9402d22e9aa33a52de97_140x140.png",
+		"points": 1.006307145552554,
+		"position": "midfielder",
+		"price_cartola": 6.97,
+		"price": 7.3,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "fluminense",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+		"id": 111831,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "M. Martins",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/20/f6b7d6073f1d67e5e9263e986f470c8b_140x140.png",
+		"points": 1.003044360612707,
+		"position": "forward",
+		"price_cartola": 3.61,
+		"price": 3.56,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "fluminense",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+		"id": 69014,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Manoel",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/20/2ee72152c5a2da89ec05cb252df58e2b_140x140.png",
+		"points": 1.008757413540379,
+		"position": "defender",
+		"price_cartola": 7.28,
+		"price": 6.89,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "fluminense",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+		"id": 102318,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "C. Paulista",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/20/3ad79908bf278d43f6fb870ec7af5f46_140x140.png",
+		"points": 1.0043152124100896,
+		"position": "forward",
+		"price_cartola": 4.9,
+		"price": 4.65,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "fluminense",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+		"id": 79631,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Cano",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/04/20/5bb8f223990a3b79975f90d376fb341a_140x140.png",
+		"points": 1.0175769531916694,
+		"position": "forward",
+		"price_cartola": 14.31,
+		"price": 15.16,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "fluminense",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+		"id": 99815,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Arias",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/04/20/d97a4c4cc239d983ba72d755e77a671d_140x140.png",
+		"points": 1.0174858186439186,
+		"position": "midfielder",
+		"price_cartola": 7.76,
+		"price": 8.82,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "fluminense",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+		"id": 72391,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "F. Diniz",
+		"photo": "https://s.glbimg.com/es/sde/f/2021/05/09/62a59a2e7ec6602b8811cb920c3c3dba_140x140.png",
+		"points": 1.0011055219326577,
+		"position": "coach",
+		"price_cartola": 10.23,
+		"price": 10.48,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "fluminense",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+		"id": 37656,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Fábio",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/20/aeae67450f0c19a81c7d356b86382594_140x140.png",
+		"points": 1.0044407591582318,
+		"position": "goalkeeper",
+		"price_cartola": 10.25,
+		"price": 10.12,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "fluminense",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+		"id": 107498,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "André",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/20/ab46ac470d67b794ba585f6150123037_140x140.png",
+		"points": 1.0060586097769821,
+		"position": "midfielder",
+		"price_cartola": 7.41,
+		"price": 7.26,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "avai",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+		"id": 97856,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "L. Ventura",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/11/27b312ffb4595c14c896eece284c7b69_140x140.png",
+		"points": 0.9899391695513567,
+		"position": "midfielder",
+		"price_cartola": 2.18,
+		"price": 1.98,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "avai",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+		"id": 72588,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Lisca",
+		"photo": "https://s.sde.globo.com/media/person_role/2021/04/28/035bd47807f8e7c0a6cc5dd78a718cf0_140x140.png",
+		"points": 0.9896610194155685,
+		"position": "coach",
+		"price_cartola": 10.38,
+		"price": 10.47,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "avai",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+		"id": 89696,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Rômulo ",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/24/474334d9aac64c11c2e9ba0bfa9b0931_140x140.png",
+		"points": 0.9850389978673956,
+		"position": "forward",
+		"price_cartola": 2.53,
+		"price": 2.39,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "avai",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+		"id": 100762,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Bissoli",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/04/08/c60eb6c17dd46f0a98ac8d236bddbbd7_140x140.png",
+		"points": 0.9957249079909621,
+		"position": "forward",
+		"price_cartola": 9.44,
+		"price": 10.03,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "avai",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+		"id": 91888,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Kevin",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/04/07/32ffdd8867e2421dccfe5b1574d47bd4_140x140.png",
+		"points": 0.9966120785199124,
+		"position": "fullback",
+		"price_cartola": 5.82,
+		"price": 6.35,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "avai",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+		"id": 86264,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Natanael",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/07/18/04d6865853a44f1a0a32d6f5ce32e9fe_140x140.png",
+		"points": 0.995886687047701,
+		"position": "fullback",
+		"price_cartola": 6.53,
+		"price": 6.53,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "avai",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+		"id": 95556,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Raniele",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/24/141b440d404a99f92d79a5e2f9d83c83_140x140.png",
+		"points": 0.9945978523950876,
+		"position": "midfielder",
+		"price_cartola": 9.48,
+		"price": 9.59,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "avai",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+		"id": 105003,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Raphael",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/08/16/354b858ff50b697342ada49b2c1cb405_140x140.png",
+		"points": 0.9896610194155685,
+		"position": "defender",
+		"price_cartola": 1.55,
+		"price": 2.0,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "avai",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+		"id": 103261,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "R. Freitas",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/08/d5bcf8daa04da76c1372d8a8a834cf98_140x140.png",
+		"points": 0.985543866653824,
+		"position": "defender",
+		"price_cartola": 1.54,
+		"price": 1.54,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "avai",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+		"id": 68698,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "B. Silva",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/23/7c8012647193d72e2db7ad4e887df99f_140x140.png",
+		"points": 0.9905471318957823,
+		"position": "midfielder",
+		"price_cartola": 8.21,
+		"price": 7.88,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "avai",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+		"id": 69040,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Vladimir",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/21/e22d32eba9a08cd74e7a00236a0e70b1_140x140.png",
+		"points": 0.9902502335858515,
+		"position": "goalkeeper",
+		"price_cartola": 3.78,
+		"price": 4.12,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "avai",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+		"id": 77809,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "W. Pottker",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/14/bc751c43e207d9c789fbbabe7cdd337c_140x140.png",
+		"points": 0.9959306214321676,
+		"position": "forward",
+		"price_cartola": 4.71,
+		"price": 4.71,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "athletico-pr",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+		"id": 72775,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Fernandinho",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/06/28/6c6eb043593091bc0d2998934a7cb0a9_140x140.png",
+		"points": 1.0086022846365712,
+		"position": "midfielder",
+		"price_cartola": 7.13,
+		"price": 7.13,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "athletico-pr",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+		"id": 102928,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Canobbio",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/03/30/ae776027bce5d99b2a19ab81b191f35b_140x140.png",
+		"points": 1.0053748794763089,
+		"position": "forward",
+		"price_cartola": 4.89,
+		"price": 4.99,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "athletico-pr",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+		"id": 101960,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Vitinho",
+		"photo": "https://s.glbimg.com/es/sde/f/2021/05/02/6f194f584e7ed2293b58deb814cde16c_140x140.png",
+		"points": 1.0090557994050318,
+		"position": "forward",
+		"price_cartola": 3.85,
+		"price": 3.73,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "athletico-pr",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+		"id": 105175,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Khellven",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/02/21/2ca4e948511b9183a702c48d72753850_140x140.png",
+		"points": 1.002254330381953,
+		"position": "fullback",
+		"price_cartola": 4.84,
+		"price": 5.27,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "athletico-pr",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+		"id": 102878,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Terans",
+		"photo": "https://s.sde.globo.com/media/person_role/2021/06/22/9afbb795a2e1b8ea2d0c84725bf26e2b_140x140.png",
+		"points": 1.0205335533207749,
+		"position": "midfielder",
+		"price_cartola": 9.8,
+		"price": 9.94,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "athletico-pr",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+		"id": 104513,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "A. Vinícius",
+		"photo": "https://s.glbimg.com/es/sde/f/2021/05/02/f1aa04d210bcbf610dc5f4c169e0dbb8_140x140.png",
+		"points": 1.0074649361823738,
+		"position": "fullback",
+		"price_cartola": 7.06,
+		"price": 7.06,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "athletico-pr",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+		"id": 43618,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "L. Scolari",
+		"photo": "https://s.glbimg.com/es/sde/f/2021/07/09/e29b4de70c7cc0b46eb86661058d026f_140x140.png",
+		"points": 1.0012588225705992,
+		"position": "coach",
+		"price_cartola": 9.53,
+		"price": 9.58,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "athletico-pr",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+		"id": 105208,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Bento",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/21/40d480db7ba8476ece495c478aa597d4_140x140.png",
+		"points": 1.0105951178211967,
+		"position": "goalkeeper",
+		"price_cartola": 7.83,
+		"price": 8.0,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "athletico-pr",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+		"id": 38394,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "T. Heleno",
+		"photo": "https://s.glbimg.com/es/sde/f/2021/05/02/f69df2ecdf5d2a9d11697c61673c4358_140x140.png",
+		"points": 1.009231692800129,
+		"position": "defender",
+		"price_cartola": 6.03,
+		"price": 6.03,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "athletico-pr",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+		"id": 87225,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "P. Henrique",
+		"photo": "https://s.glbimg.com/es/sde/f/2021/05/02/f5dd1bb01acb5eb9e0601cc31c8020f5_140x140.png",
+		"points": 1.0184028074582465,
+		"position": "defender",
+		"price_cartola": 7.98,
+		"price": 7.29,
+		"timestamp": "2022-10-16T22:00:00Z"
+	},
+	{
+		"club": "bragantino",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+		"id": 106299,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Realpe",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/05/05/593eafb7ce8c7aa2051ccde762f1d731_140x140.png",
+		"points": 0.9990227457453851,
+		"position": "defender",
+		"price_cartola": 2.74,
+		"price": 2.46,
+		"timestamp": "2022-10-17T23:00:00Z"
+	},
+	{
+		"club": "bragantino",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+		"id": 116994,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Popó",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/08/12/b342efbec53382216329d7fc3ebf0b47_140x140.png",
+		"points": 1.0060048290679389,
+		"position": "forward",
+		"price_cartola": 4.1,
+		"price": 3.93,
+		"timestamp": "2022-10-17T23:00:00Z"
+	},
+	{
+		"club": "bragantino",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+		"id": 85931,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Hyoran",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/05/05/d656de14270c212a9409e2e8138e3b20_140x140.png",
+		"points": 1.0031939798984597,
+		"position": "midfielder",
+		"price_cartola": 6.97,
+		"price": 7.75,
+		"timestamp": "2022-10-17T23:00:00Z"
+	},
+	{
+		"club": "bragantino",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+		"id": 95799,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Artur",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/05/05/5c98a0d6cc76edfef83280072bbd3832_140x140.png",
+		"points": 1.0070252853848591,
+		"position": "forward",
+		"price_cartola": 8.8,
+		"price": 9.67,
+		"timestamp": "2022-10-17T23:00:00Z"
+	},
+	{
+		"club": "bragantino",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+		"id": 88423,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Aderlan",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/05/05/e0f91d593be16e959e72ad0d5fc131a0_140x140.png",
+		"points": 1.0084642177674106,
+		"position": "fullback",
+		"price_cartola": 8.88,
+		"price": 8.88,
+		"timestamp": "2022-10-17T23:00:00Z"
+	},
+	{
+		"club": "bragantino",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
 		"id": 82792,
-		"club": 280,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "M. Barbieri",
+		"photo": "https://s.glbimg.com/es/sde/f/2021/04/27/1cc4a56a4aefc5902e503c4834666651_140x140.png",
+		"points": 0.9981767789998417,
 		"position": "coach",
-		"points": 4.17,
-		"price": 8.55
+		"price_cartola": 10.97,
+		"price": 11.34,
+		"timestamp": "2022-10-17T23:00:00Z"
 	},
 	{
-		"id": 88881,
-		"club": 294,
-		"position": "coach",
-		"points": 2.28,
-		"price": 8.15
+		"club": "bragantino",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+		"id": 102598,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Helinho",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/05/05/d0de5e463c8123423e2713cdde571faf_140x140.png",
+		"points": 1.0058708460484838,
+		"position": "forward",
+		"price_cartola": 5.03,
+		"price": 5.03,
+		"timestamp": "2022-10-17T23:00:00Z"
 	},
 	{
-		"id": 91274,
-		"club": 277,
-		"position": "coach",
-		"points": 1.68,
-		"price": 9.27
+		"club": "bragantino",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+		"id": 84674,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "L. Evangelista",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/05/05/175c2911cb392a7305aef49766feb459_140x140.png",
+		"points": 1.005474382307263,
+		"position": "midfielder",
+		"price_cartola": 9.13,
+		"price": 10.38,
+		"timestamp": "2022-10-17T23:00:00Z"
 	},
 	{
-		"id": 92180,
-		"club": 292,
-		"position": "coach",
-		"points": 0.93,
-		"price": 6.88
+		"club": "bragantino",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+		"id": 92496,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Raul",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/05/05/278a2f0c3cd97ace8138ffbe2f23d81d_140x140.png",
+		"points": 1.0051115573328548,
+		"position": "midfielder",
+		"price_cartola": 7.29,
+		"price": 6.97,
+		"timestamp": "2022-10-17T23:00:00Z"
 	},
 	{
-		"id": 97341,
-		"club": 262,
-		"position": "coach",
-		"points": 2.12,
-		"price": 8.33
+		"club": "bragantino",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+		"id": 107110,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Natan",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/05/05/ebc6c140c001d68b3b50f27e354d27e2_140x140.png",
+		"points": 1.0030507639134882,
+		"position": "defender",
+		"price_cartola": 8.25,
+		"price": 8.06,
+		"timestamp": "2022-10-17T23:00:00Z"
 	},
 	{
-		"id": 103582,
-		"club": 263,
-		"position": "coach",
-		"points": 1.99,
-		"price": 6.2
+		"club": "bragantino",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+		"id": 93882,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Cleiton",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/05/05/ec4a7cb649121dc08c2869bdcf6ef984_140x140.png",
+		"points": 1.0027351316819104,
+		"position": "goalkeeper",
+		"price_cartola": 8.44,
+		"price": 9.03,
+		"timestamp": "2022-10-17T23:00:00Z"
 	},
 	{
-		"id": 109638,
-		"club": 290,
-		"position": "coach",
-		"points": 3.94,
-		"price": 6.33
+		"club": "santos",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+		"id": 99119,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "L. Braga",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/03/a3607db4d71e6018951bfe51c702fb1a_140x140.png",
+		"points": 0.9897837520246394,
+		"position": "forward",
+		"price_cartola": 8.5,
+		"price": 5.55,
+		"timestamp": "2022-10-17T23:00:00Z"
 	},
 	{
+		"club": "santos",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+		"id": 101708,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "F. Jonatan",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/03/e7109f32d289e269f43592da6566c2e5_140x140.png",
+		"points": 0.9924258746386353,
+		"position": "fullback",
+		"price_cartola": 6.29,
+		"price": 5.74,
+		"timestamp": "2022-10-17T23:00:00Z"
+	},
+	{
+		"club": "santos",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+		"id": 99214,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "R. Fernández",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/29/6fdde8730fb97a5d12a85b4ebd9d4e93_140x140.png",
+		"points": 0.9894807650973632,
+		"position": "midfielder",
+		"price_cartola": 5.5,
+		"price": 5.05,
+		"timestamp": "2022-10-17T23:00:00Z"
+	},
+	{
+		"club": "santos",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+		"id": 79035,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "L. Felipe",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/03/d93506f46370622558870dd37ada6bb5_140x140.png",
+		"points": 0.9837890322534989,
+		"position": "defender",
+		"price_cartola": 4.21,
+		"price": 4.05,
+		"timestamp": "2022-10-17T23:00:00Z"
+	},
+	{
+		"club": "santos",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+		"id": 86970,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "E. Bauermann",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/03/c89e866fa7fb43aaf3b818e5578644d5_140x140.png",
+		"points": 0.994503309521109,
+		"position": "defender",
+		"price_cartola": 9.97,
+		"price": 9.82,
+		"timestamp": "2022-10-17T23:00:00Z"
+	},
+	{
+		"club": "santos",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+		"id": 110415,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Ângelo",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/03/e0ca88eb8ab327b605082617a24e69fc_140x140.png",
+		"points": 0.9871878811260437,
+		"position": "forward",
+		"price_cartola": 6.94,
+		"price": 5.02,
+		"timestamp": "2022-10-17T23:00:00Z"
+	},
+	{
+		"club": "santos",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+		"id": 81677,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "C. Sánchez",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/03/63b472302f16e36f871bc271d9d355d1_140x140.png",
+		"points": 0.9874170291292816,
+		"position": "midfielder",
+		"price_cartola": 4.38,
+		"price": 4.47,
+		"timestamp": "2022-10-17T23:00:00Z"
+	},
+	{
+		"club": "santos",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+		"id": 109497,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "M. Leonardo",
+		"photo": "https://storage.googleapis.com/bkt-gglobo-sde-hdg-prd-sdeadmin_prod/media/person_role/2022/03/03/70c0680cfe4346861b4db5ebeba1fdbd_140x140.png",
+		"points": 0.9905462362306116,
+		"position": "forward",
+		"price_cartola": 13.89,
+		"price": 13.9,
+		"timestamp": "2022-10-17T23:00:00Z"
+	},
+	{
+		"club": "santos",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+		"id": 85425,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "J. Paulo",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/03/9edc82b201e12a2a0b8dba4d87004195_140x140.png",
+		"points": 0.9935736110349866,
+		"position": "goalkeeper",
+		"price_cartola": 12.88,
+		"price": 12.57,
+		"timestamp": "2022-10-17T23:00:00Z"
+	},
+	{
+		"club": "santos",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+		"id": 120612,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "O. Ribeiro",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/09/29/photo_140x140.png",
+		"points": 0.9879668875571473,
+		"position": "coach",
+		"price_cartola": 10.19,
+		"price": 9.0,
+		"timestamp": "2022-10-17T23:00:00Z"
+	},
+	{
+		"club": "cuiaba",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+		"id": 109563,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Joaquim",
+		"photo": "https://s.glbimg.com/es/sde/f/2021/06/04/9af680e828bdcbc3a28ff0dbfc34f2e5_140x140.png",
+		"points": 0.9885361480733136,
+		"position": "defender",
+		"price_cartola": 4.86,
+		"price": 4.95,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "cuiaba",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+		"id": 92708,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Deyverson",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/08/04/0f29963b959d422652eae53503f20f1f_140x140.png",
+		"points": 0.9936589465612702,
+		"position": "forward",
+		"price_cartola": 6.2,
+		"price": 7.06,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "cuiaba",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+		"id": 111578,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "A. Oliveira",
+		"photo": "https://s.glbimg.com/es/sde/f/2021/04/27/21a131dcff78d521da3297e98526ce48_140x140.png",
+		"points": 0.9884415685167882,
+		"position": "coach",
+		"price_cartola": 7.43,
+		"price": 7.59,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "cuiaba",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+		"id": 69010,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "J. Carlos",
+		"photo": "https://s.glbimg.com/es/sde/f/2021/05/28/9d5caf065f11413aa6bf28e1d6b8acf8_140x140.png",
+		"points": 0.9892625091601918,
+		"position": "goalkeeper",
+		"price_cartola": 3.18,
+		"price": 3.34,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "cuiaba",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+		"id": 88225,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "D. Guedes",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/04/21/eb1d1f53750f2ecb8c48b5caa3985a22_140x140.png",
+		"points": 0.9901138905033097,
+		"position": "fullback",
+		"price_cartola": 2.73,
+		"price": 3.38,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "cuiaba",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+		"id": 115986,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Denilson",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/10/15/photo_140x140_sqKxYTo.png",
+		"points": 0.991488272709561,
+		"position": "midfielder",
+		"price_cartola": 2.92,
+		"price": 2.09,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "cuiaba",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+		"id": 92146,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "A. Luís",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/23/4ba86feb09facb90b3a01b1712c3c8f5_140x140.png",
+		"points": 0.9895662840396382,
+		"position": "forward",
+		"price_cartola": 5.08,
+		"price": 4.43,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "cuiaba",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+		"id": 63172,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Paulão",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/23/962044a3dba4ade297a566c4d7f73d40_140x140.png",
+		"points": 0.9870148190320909,
+		"position": "defender",
+		"price_cartola": 4.08,
+		"price": 3.49,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "cuiaba",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+		"id": 101573,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Pepê",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/23/f7d3a51faa57213871975b0e01258892_140x140.png",
+		"points": 0.9916305463168975,
+		"position": "midfielder",
+		"price_cartola": 6.12,
+		"price": 6.78,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "cuiaba",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+		"id": 61033,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Rodriguinho",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/23/da202da4fb23bc636936f60651108982_140x140.png",
+		"points": 0.9993522332296735,
+		"position": "midfielder",
+		"price_cartola": 6.43,
+		"price": 6.72,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "ceara",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+		"id": 71162,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Vina",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/02/22/7c8dc91a507c2956dc61efbd45bda613_140x140.png",
+		"points": 1.003656515193153,
+		"position": "midfielder",
+		"price_cartola": 4.03,
+		"price": 4.03,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "ceara",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+		"id": 120397,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "L. González",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/08/30/photo_140x140_lsmdxOc.png",
+		"points": 1.00015218666766,
+		"position": "coach",
+		"price_cartola": 6.57,
+		"price": 6.3,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "ceara",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+		"id": 38138,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Jô",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/08/11/f19c59d4d6626b101ff291f3e852072d_140x140.png",
+		"points": 1.0010208526000601,
+		"position": "forward",
+		"price_cartola": 4.73,
+		"price": 4.59,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "ceara",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+		"id": 90061,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "B. Pacheco",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/22/557432fa07207d8e3aa6630ee0483cf0_140x140.png",
+		"points": 1.0111516125780189,
+		"position": "fullback",
+		"price_cartola": 9.56,
+		"price": 8.83,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "ceara",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+		"id": 86711,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "R. Coelho",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/22/a9032c07d987ecaec7516f2037a7de70_140x140.png",
+		"points": 1.0029587161072822,
+		"position": "midfielder",
+		"price_cartola": 4.62,
+		"price": 4.84,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "ceara",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+		"id": 81881,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "J. Ricardo",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/22/adaab64e1f87d21062e8d3820e969b1c_140x140.png",
+		"points": 1.0063998741487956,
+		"position": "goalkeeper",
+		"price_cartola": 7.16,
+		"price": 6.48,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "ceara",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+		"id": 86410,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "V. Luis",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/22/451062f55ce1f1bb899af8a090cd1bb5_140x140.png",
+		"points": 1.0027746569371014,
+		"position": "fullback",
+		"price_cartola": 5.88,
+		"price": 5.04,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "ceara",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+		"id": 90031,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Mendoza",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/02/22/348289b85a309419d827269486e667c9_140x140.png",
+		"points": 1.0136669829666074,
+		"position": "forward",
+		"price_cartola": 14.0,
+		"price": 14.0,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "ceara",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+		"id": 72359,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "L. Otávio",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/22/18d80f2c9d7f3c212842019dab63bd77_140x140.png",
+		"points": 1.002681667982558,
+		"position": "defender",
+		"price_cartola": 3.88,
+		"price": 3.63,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "ceara",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+		"id": 68808,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "N. Paraíba",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/22/7fc46375115ce0f0e27a2498bc10c3a2_140x140.png",
+		"points": 1.0078463364459782,
+		"position": "fullback",
+		"price_cartola": 6.83,
+		"price": 6.23,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "ceara",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+		"id": 86536,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Richardson",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/22/6e7e2815732004f3d9c34e0dae8ce6f7_140x140.png",
+		"points": 1.0020934895441393,
+		"position": "midfielder",
+		"price_cartola": 2.79,
+		"price": 3.15,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "ceara",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+		"id": 108176,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "G. Lacerda",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/22/6e64fcfbd8fd5ae5f3a9f615b801c4bd_140x140.png",
+		"points": 1.0006050736130017,
+		"position": "defender",
+		"price_cartola": 4.1,
+		"price": 3.2,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "palmeiras",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+		"id": 63013,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "M. Rocha",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/21/b5c3422a508001c1776995c43b20fdff_140x140.png",
+		"points": 1.0158269470500585,
+		"position": "fullback",
+		"price_cartola": 9.59,
+		"price": 10.49,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "palmeiras",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+		"id": 107231,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Danilo",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/02/21/db630d6c2cb9309ad6f0f77ad6f1d408_140x140.png",
+		"points": 1.0095277513243386,
+		"position": "midfielder",
+		"price_cartola": 6.13,
+		"price": 6.61,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "palmeiras",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
 		"id": 110506,
-		"club": 275,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "A. Ferreira",
+		"photo": "https://s.sde.globo.com/media/person_role/2021/04/27/574e87d52be9d06fd03fa69fefb60255_140x140.png",
+		"points": 1.010618682660172,
 		"position": "coach",
-		"points": 2.7,
-		"price": 11.78
+		"price_cartola": 13.6,
+		"price": 14.7,
+		"timestamp": "2022-10-16T19:00:00Z"
 	},
 	{
-		"id": 111079,
-		"club": 276,
+		"club": "palmeiras",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+		"id": 68920,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Dudu",
+		"photo": "https://storage.googleapis.com/bkt-gglobo-sde-hdg-prd-sdeadmin_prod/media/person_role/2022/02/21/f77c90a60a3c8354d3235d1b61be9208_140x140.png",
+		"points": 1.0173326999613017,
+		"position": "forward",
+		"price_cartola": 11.82,
+		"price": 13.38,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "palmeiras",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+		"id": 81150,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Mayke",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/21/7d200ca2902c8ec5643bc8975b770faf_140x140.png",
+		"points": 1.0153335765981184,
+		"position": "fullback",
+		"price_cartola": 6.19,
+		"price": 8.41,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "palmeiras",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+		"id": 97653,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Murilo",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/02/21/934e2aaafb55c35f6f83b91333b4f5b8_140x140.png",
+		"points": 1.0175232995202497,
+		"position": "defender",
+		"price_cartola": 11.59,
+		"price": 10.25,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "palmeiras",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+		"id": 105934,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Merentiel",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/05/18/bed453587c46cff98d1aabd2c607f70c_140x140.png",
+		"points": 1.0117995098286612,
+		"position": "forward",
+		"price_cartola": 3.81,
+		"price": 3.92,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "palmeiras",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+		"id": 82455,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Z. Rafael",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/02/21/a9bb4a6cb2ff8e2f533bf41f37dd93dc_140x140.png",
+		"points": 1.0129991862755285,
+		"position": "midfielder",
+		"price_cartola": 13.36,
+		"price": 14.24,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "palmeiras",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+		"id": 71684,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "G. Gómez",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/02/21/f210b8623194d0722dd0d76585950fb1_140x140.png",
+		"points": 1.018611431020056,
+		"position": "defender",
+		"price_cartola": 15.13,
+		"price": 17.01,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "palmeiras",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+		"id": 87999,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "G. Scarpa",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/02/21/7f4f870f8251e4f95ab6d372a22919c1_140x140.png",
+		"points": 1.0179070657028895,
+		"position": "midfielder",
+		"price_cartola": 13.94,
+		"price": 13.42,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "palmeiras",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+		"id": 102130,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Piquerez",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/02/21/82bd262ef647de7255e8df06fdd8e3f2_140x140.png",
+		"points": 1.0174410713019133,
+		"position": "fullback",
+		"price_cartola": 8.49,
+		"price": 9.97,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "palmeiras",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+		"id": 71631,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Weverton",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/21/b9adc602abc451c8b30c8554a18970f2_140x140.png",
+		"points": 1.0170233548970864,
+		"position": "goalkeeper",
+		"price_cartola": 10.98,
+		"price": 12.15,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "sao-paulo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+		"id": 106822,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "R. Nestor",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/03/01/70f9ba85a01525e2d77c787e7efb42f7_140x140.png",
+		"points": 0.9878468733661246,
+		"position": "midfielder",
+		"price_cartola": 7.03,
+		"price": 7.13,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "sao-paulo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+		"id": 78850,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Reinaldo",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/03/01/779ff87d6723d6c70d7caac56df86d5f_140x140.png",
+		"points": 0.9832597704761353,
+		"position": "fullback",
+		"price_cartola": 4.03,
+		"price": 4.2,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "sao-paulo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+		"id": 72372,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "F. Alves",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/08/16/19b70a0ace7230f7a5033ad9270abf7e_140x140.png",
+		"points": 0.9940255609865458,
+		"position": "goalkeeper",
+		"price_cartola": 5.9,
+		"price": 6.59,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "sao-paulo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+		"id": 89840,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Calleri",
+		"photo": "https://storage.googleapis.com/bkt-gglobo-sde-hdg-prd-sdeadmin_prod/media/person_role/2022/03/01/3abaa943f1546750dd057d6cb3559ce5_140x140.png",
+		"points": 0.9974000762398911,
+		"position": "forward",
+		"price_cartola": 21.7,
+		"price": 23.86,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "sao-paulo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+		"id": 113359,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "P. Maia",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/05/e91f0953fe782088f01eda528fd69b2f_140x140.png",
+		"points": 0.9911126162988276,
+		"position": "midfielder",
+		"price_cartola": 3.69,
+		"price": 4.22,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "sao-paulo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+		"id": 97341,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "R. Ceni",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/01/e6fac1f227854170a80b2cf3234bfa1d_140x140.png",
+		"points": 0.9873061680662162,
 		"position": "coach",
-		"points": 1.18,
-		"price": 7.53
+		"price_cartola": 11.19,
+		"price": 11.98,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "sao-paulo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+		"id": 105300,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Ferraresi",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/08/13/a5301263d96806640ddf67cec70f99e7_140x140.png",
+		"points": 0.9914114871360014,
+		"position": "defender",
+		"price_cartola": 6.07,
+		"price": 6.07,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "sao-paulo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+		"id": 80287,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Luciano",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/03/01/aeb1926a6ddb270206f4ceffcf701d4b_140x140.png",
+		"points": 0.9910888825895271,
+		"position": "forward",
+		"price_cartola": 11.5,
+		"price": 12.31,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "sao-paulo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+		"id": 83433,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Patrick",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/03/01/6ebefc2dde70dd404af0145a962b55d4_140x140.png",
+		"points": 0.9933797582158093,
+		"position": "midfielder",
+		"price_cartola": 8.83,
+		"price": 9.49,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "sao-paulo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+		"id": 38141,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Miranda",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/01/63cdbc67a76c583cd60a4368a8c9441e_140x140.png",
+		"points": 0.9908371893663798,
+		"position": "defender",
+		"price_cartola": 5.92,
+		"price": 6.48,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "sao-paulo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+		"id": 95466,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "I. Vinícius",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/01/1896fe9a90e6307ac1586be9aafcb04e_140x140.png",
+		"points": 0.99423852774785,
+		"position": "fullback",
+		"price_cartola": 4.98,
+		"price": 5.0,
+		"timestamp": "2022-10-16T19:00:00Z"
+	},
+	{
+		"club": "america-mg",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+		"id": 91203,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Éder",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/24/e0b5f4c6647fe1b42922ddb4458dade0_140x140.png",
+		"points": 1.0077703569246834,
+		"position": "defender",
+		"price_cartola": 4.37,
+		"price": 3.62,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "america-mg",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+		"id": 60825,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "F. Azevedo",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/25/32fc5d9f18e690ed6ef80d16faae95cc_140x140.png",
+		"points": 0.9994744014516824,
+		"position": "forward",
+		"price_cartola": 7.85,
+		"price": 5.82,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "america-mg",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+		"id": 82381,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Juninho",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/24/fb366714954149fbf7b493465bba1d9e_140x140.png",
+		"points": 1.0096627604278225,
+		"position": "midfielder",
+		"price_cartola": 7.16,
+		"price": 6.83,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "america-mg",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+		"id": 91151,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Everaldo",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/02/25/561f3ca4238e82e1b2e1479a1a66c551_140x140.png",
+		"points": 1.0033248863502244,
+		"position": "forward",
+		"price_cartola": 8.72,
+		"price": 9.16,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "america-mg",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+		"id": 72580,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "M. Cavichioli",
+		"photo": "https://s.glbimg.com/es/sde/f/2021/06/04/4b9a4cd7759d0ef36a25a02c4b9cf8a8_140x140.png",
+		"points": 1.0120562768733063,
+		"position": "goalkeeper",
+		"price_cartola": 9.39,
+		"price": 7.24,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "america-mg",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+		"id": 39850,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "V. Mancini",
+		"photo": "https://s.glbimg.com/es/sde/f/2021/04/28/5745220dd2c869e1f9de357e41902989_140x140.png",
+		"points": 0.9985038197515838,
+		"position": "coach",
+		"price_cartola": 8.93,
+		"price": 8.12,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "america-mg",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+		"id": 93886,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Matheusinho",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/24/d160f8f8c1464cbcc27b4195e6255175_140x140.png",
+		"points": 1.0054143891257876,
+		"position": "midfielder",
+		"price_cartola": 4.09,
+		"price": 1.93,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "america-mg",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+		"id": 86388,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Alê",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/24/4b65fc3f258e926df6bf12c3abbfa9a0_140x140.png",
+		"points": 1.0049584549378061,
+		"position": "midfielder",
+		"price_cartola": 8.33,
+		"price": 8.82,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "america-mg",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+		"id": 89226,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "I. Maidana",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/24/ac60436f13f7ce52c62ccb9b8d4ac384_140x140.png",
+		"points": 1.0115707608799325,
+		"position": "defender",
+		"price_cartola": 6.73,
+		"price": 6.73,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "flamengo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+		"id": 69165,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Pablo",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/25/71280a4dfbfab7898164a7269b1a357e_140x140.png",
+		"points": 1.0076354532900826,
+		"position": "defender",
+		"price_cartola": 6.82,
+		"price": 7.23,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "flamengo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+		"id": 101727,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Matheuzinho",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/25/f8b82a43e5e935dc7a17f7f142575c55_140x140.png",
+		"points": 1.008683202218608,
+		"position": "fullback",
+		"price_cartola": 8.09,
+		"price": 8.09,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "flamengo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+		"id": 116034,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "V. Hugo",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/04/27/fe19307b5221c38cbe407f4f65e38e0b_140x140.png",
+		"points": 1.0022671575230682,
+		"position": "midfielder",
+		"price_cartola": 3.84,
+		"price": 2.94,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "flamengo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+		"id": 107109,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "J. Gomes",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/04/25/292ab6b7a59ffca1fbdc8fa86227fde5_140x140.png",
+		"points": 1.0061705196315849,
+		"position": "midfielder",
+		"price_cartola": 9.96,
+		"price": 9.96,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "flamengo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+		"id": 40990,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "D. Júnior",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/28/d28c444ff6eaf5f7b58d9f2ef2bd5075_140x140.png",
+		"points": 0.9975699914054202,
+		"position": "coach",
+		"price_cartola": 9.79,
+		"price": 9.91,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "flamengo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+		"id": 88393,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "A. Lucas",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/14/36837bfe151af329a80e71d5dc2bc8e0_140x140.png",
+		"points": 1.0097372545251793,
+		"position": "fullback",
+		"price_cartola": 8.38,
+		"price": 8.92,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "flamengo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+		"id": 86757,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Everton",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/07/15/353ea5b8887c0e119da1d3a27bff35d6_140x140.png",
+		"points": 1.0037243669283116,
+		"position": "forward",
+		"price_cartola": 11.37,
+		"price": 11.09,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "flamengo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+		"id": 69012,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Santos",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/14/cdf250518797f30f9cb6045061ee01ab_140x140.png",
+		"points": 1.0073696242222128,
+		"position": "goalkeeper",
+		"price_cartola": 9.66,
+		"price": 10.73,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "flamengo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+		"id": 115100,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "M. França",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/25/52035534eea583575956f43e6e6dc166_140x140.png",
+		"points": 0.9975516183363068,
+		"position": "midfielder",
+		"price_cartola": 3.41,
+		"price": 1.72,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "flamengo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+		"id": 84816,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Varela",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/09/16/photo_140x140_NRQp1lu.png",
+		"points": 0.9998366443991785,
+		"position": "fullback",
+		"price_cartola": 6.27,
+		"price": 5.8,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "flamengo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+		"id": 68952,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Marinho",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/25/b4786e494c8f4852f2ae91d6e0c57b2e_140x140.png",
+		"points": 1.007801971172948,
+		"position": "forward",
+		"price_cartola": 9.05,
+		"price": 7.05,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "flamengo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+		"id": 90768,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "F. Bruno",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/25/06fca89445e5f7bb29a42734c5fbb2e0_140x140.png",
+		"points": 1.0091162741346613,
+		"position": "defender",
+		"price_cartola": 5.74,
+		"price": 5.88,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "fortaleza",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+		"id": 71844,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "T. Galhardo",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/07/16/27deb38ffaefdd66a10d7f246dcc678f_140x140.png",
+		"points": 0.9954015565294416,
+		"position": "forward",
+		"price_cartola": 9.35,
+		"price": 9.3,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "fortaleza",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+		"id": 84817,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Robson",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/05/12/b000ff4ab3334924aefc7d073b85809e_140x140.png",
+		"points": 0.9906184680141009,
+		"position": "forward",
+		"price_cartola": 7.71,
+		"price": 6.64,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "fortaleza",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+		"id": 50353,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Titi",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/05/12/534ed4edd303b71622c53c102254193d_140x140.png",
+		"points": 0.9980080252257194,
+		"position": "defender",
+		"price_cartola": 6.98,
+		"price": 6.11,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "fortaleza",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+		"id": 104754,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "J. Vojvoda",
+		"photo": "https://s.glbimg.com/es/sde/f/2021/05/04/b1ac9362e20bba2d6dc699906e1420cc_140x140.png",
+		"points": 0.9912710547910609,
+		"position": "coach",
+		"price_cartola": 9.45,
+		"price": 8.95,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "fortaleza",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+		"id": 116447,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Hércules",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/05/12/6429cedc69ac434a2c09ab6caf1f83c7_140x140.png",
+		"points": 0.990795682383665,
+		"position": "midfielder",
+		"price_cartola": 5.37,
+		"price": 4.66,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "fortaleza",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+		"id": 71571,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "F. Miguel",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/23/66ea94ea2768ebd6a6cb8f102326d669_140x140.png",
+		"points": 1.0032263544503424,
+		"position": "goalkeeper",
+		"price_cartola": 8.23,
+		"price": 7.25,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "fortaleza",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+		"id": 83004,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Otero",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/07/16/c5f5df2eead162d7dc6248c825aa23b0_140x140.png",
+		"points": 0.9920033123701145,
+		"position": "midfielder",
+		"price_cartola": 6.14,
+		"price": 5.14,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "fortaleza",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+		"id": 82628,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Tinga",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/05/12/98abba841d176135f9ec02a557177a7f_140x140.png",
+		"points": 0.9946647766878947,
+		"position": "fullback",
+		"price_cartola": 4.13,
+		"price": 4.11,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "fortaleza",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+		"id": 104666,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Moisés",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/05/12/f14daa299b1fbfb010af7e0468342ccd_140x140.png",
+		"points": 0.9923838697586165,
+		"position": "forward",
+		"price_cartola": 6.92,
+		"price": 6.71,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "fortaleza",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+		"id": 94968,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "J. Capixaba",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/05/12/91620964c17b6d42449ebab1cb868d24_140x140.png",
+		"points": 1.0048811320346538,
+		"position": "fullback",
+		"price_cartola": 10.36,
+		"price": 9.27,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "fortaleza",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+		"id": 106323,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "C. Alexandre",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/09/22/photo_140x140_V96pF1l.png",
+		"points": 0.9948218735018727,
+		"position": "midfielder",
+		"price_cartola": 6.11,
+		"price": 5.97,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "fortaleza",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+		"id": 101995,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Brítez",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/07/16/933d90afd9fed6c8f8426f4c450f232e_140x140.png",
+		"points": 0.9988069898274536,
+		"position": "fullback",
+		"price_cartola": 10.29,
+		"price": 10.81,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "atletico-mg",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+		"id": 82463,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Otávio",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/07/15/2b6c169672a8205f14e8ac4bb25388c6_140x140.png",
+		"points": 0.9852607427777205,
+		"position": "midfielder",
+		"price_cartola": 3.54,
+		"price": 3.71,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "atletico-mg",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+		"id": 86485,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Keno",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/07/15/820234c0ffc99499256049457624d710_140x140.png",
+		"points": 0.9971775777432899,
+		"position": "forward",
+		"price_cartola": 6.77,
+		"price": 7.27,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "atletico-mg",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+		"id": 95794,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "N. Silva",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/07/15/d0236fbab3979985ac474c82ddc56fe1_140x140.png",
+		"points": 0.995736349195366,
+		"position": "defender",
+		"price_cartola": 8.02,
+		"price": 8.02,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "atletico-mg",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+		"id": 72294,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Everson",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/07/15/bd899e9773980e79959b0ba714379a00_140x140.png",
+		"points": 0.9987331921561758,
+		"position": "goalkeeper",
+		"price_cartola": 10.97,
+		"price": 10.97,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "atletico-mg",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+		"id": 96652,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Allan",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/07/15/9d08742f2ed78c483fb890fcb2a8602e_140x140.png",
+		"points": 0.9927349859269289,
+		"position": "midfielder",
+		"price_cartola": 4.13,
+		"price": 3.91,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "atletico-mg",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+		"id": 68727,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Dodô",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/07/15/609e318b14a5b18020808dc34efd5bfa_140x140.png",
+		"points": 0.9966168100946132,
+		"position": "fullback",
+		"price_cartola": 5.65,
+		"price": 5.34,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "atletico-mg",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+		"id": 88312,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "J. Alonso",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/07/15/18f148a4c0e6304c4e127291f1935424_140x140.png",
+		"points": 0.9920273223947504,
+		"position": "defender",
+		"price_cartola": 12.09,
+		"price": 11.37,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "atletico-mg",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+		"id": 38877,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Mariano",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/07/15/c04eede8e289c2e2a9d0b82097512fdc_140x140.png",
+		"points": 0.9978417470764575,
+		"position": "fullback",
+		"price_cartola": 8.99,
+		"price": 8.99,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "atletico-mg",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+		"id": 39148,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Hulk",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/07/15/ee2237ff2b55e16e4263c51c7626431e_140x140.png",
+		"points": 0.9998710752437681,
+		"position": "forward",
+		"price_cartola": 20.27,
+		"price": 20.27,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "atletico-mg",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+		"id": 42411,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Cuca",
+		"photo": "https://s.glbimg.com/es/sde/f/2021/04/27/0ea32497ac7f6b6b22649eecca984fec_140x140.png",
+		"points": 0.9911821979480229,
+		"position": "coach",
+		"price_cartola": 11.1,
+		"price": 11.07,
+		"timestamp": "2022-10-15T23:30:00Z"
+	},
+	{
+		"club": "internacional",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+		"id": 98219,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Alemão",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/04/02/6749aefb841e5462c4bb1cd86b5458e4_140x140.png",
+		"points": 1.000405867821208,
+		"position": "forward",
+		"price_cartola": 7.56,
+		"price": 7.71,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "internacional",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+		"id": 78445,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Renê",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/12/89131124e240b53f50f1fe351ceb880d_140x140.png",
+		"points": 1.0035029671515945,
+		"position": "fullback",
+		"price_cartola": 8.4,
+		"price": 8.54,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "internacional",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+		"id": 106002,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Johnny",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/04/02/666f4ca3cd28eb08033d6014fd0d3d85_140x140.png",
+		"points": 1.0040878940343025,
+		"position": "midfielder",
+		"price_cartola": 5.0,
+		"price": 4.78,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "internacional",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+		"id": 96678,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Bustos",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/04/02/931e44ec05fa6257ecdf5e8973318115_140x140.png",
+		"points": 0.9992356953985804,
+		"position": "fullback",
+		"price_cartola": 8.84,
+		"price": 10.4,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "internacional",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+		"id": 93478,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Wanderson",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/11/60d938ca7b4268f47e35930fb50a834a_140x140.png",
+		"points": 0.991882471466678,
+		"position": "forward",
+		"price_cartola": 4.67,
+		"price": 5.14,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "internacional",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+		"id": 97900,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Vitão",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/07/01775b31d2f7befdabaf91e9ab272edd_140x140.png",
+		"points": 0.9977557448849242,
+		"position": "defender",
+		"price_cartola": 5.52,
+		"price": 6.16,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "internacional",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+		"id": 93834,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Keiller",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/22/d956425748ab5bc7726c1e8337593d78_140x140.png",
+		"points": 1.0035029671515945,
+		"position": "goalkeeper",
+		"price_cartola": 2.69,
+		"price": 3.51,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "internacional",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+		"id": 37281,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "M. Menezes",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/20/e2710d5e2f652b8154c927ba13d68369_140x140.png",
+		"points": 0.995167902917113,
+		"position": "coach",
+		"price_cartola": 10.44,
+		"price": 10.38,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "internacional",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+		"id": 87242,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "C. Pena",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/02/d2010e9182e074fe4a26c1c6d39304dc_140x140.png",
+		"points": 0.9956945310607858,
+		"position": "forward",
+		"price_cartola": 8.79,
+		"price": 8.38,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "internacional",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+		"id": 68685,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "A. Patrick",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/12/d0f45ab083d12ecd860e02a9bf048379_140x140.png",
+		"points": 0.9979201982151206,
+		"position": "midfielder",
+		"price_cartola": 9.84,
+		"price": 7.57,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "internacional",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+		"id": 63354,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "R. Moledo",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/02/a672a123ec8d7b626a7c7aad1211dc94_140x140.png",
+		"points": 0.9970523687331926,
+		"position": "defender",
+		"price_cartola": 6.55,
+		"price": 6.43,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "botafogo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+		"id": 84042,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "T. Soares",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/08/16/f47b785622d8aa181e13a5adc40ecb4b_140x140.png",
+		"points": 1.001416816209616,
+		"position": "forward",
+		"price_cartola": 10.73,
+		"price": 10.27,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "botafogo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+		"id": 68708,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Eduardo",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/07/12/defe5a5f9596bc80eb9f86efab5f5bcd_140x140.png",
+		"points": 0.997316657560142,
+		"position": "midfielder",
+		"price_cartola": 8.49,
+		"price": 9.17,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "botafogo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+		"id": 111713,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Mezenga",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/21/e36f8b0c42d297654c276a39b86f6e39_140x140.png",
+		"points": 0.9941196933808433,
+		"position": "defender",
+		"price_cartola": 3.32,
+		"price": 3.32,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "botafogo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+		"id": 74061,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "G. Fernández",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/21/26f8f1373737a7203417427043ada896_140x140.png",
+		"points": 1.0018088331873185,
+		"position": "goalkeeper",
+		"price_cartola": 8.2,
+		"price": 7.1,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "botafogo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+		"id": 101002,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "J. Santos",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/08/16/b90d064488716f8526c5c2519944eceb_140x140.png",
+		"points": 0.9978791456408117,
+		"position": "forward",
+		"price_cartola": 7.93,
+		"price": 7.29,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "botafogo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+		"id": 88037,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "L. Castro",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/02/21/3d4eb55c672851b1407085b09c4dfbb4_140x140.png",
+		"points": 0.9941196933808433,
+		"position": "coach",
+		"price_cartola": 9.6,
+		"price": 9.47,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "botafogo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+		"id": 71898,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "G. Pires",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/08/12/c1753038fcbfe1377f41a56fcb8c3657_140x140.png",
+		"points": 0.9941433279697985,
+		"position": "midfielder",
+		"price_cartola": 6.45,
+		"price": 6.95,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "botafogo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+		"id": 97468,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Marçal",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/07/23/58c55ae1230275963709bd8082f7b2cd_140x140.png",
+		"points": 1.005591774397113,
+		"position": "fullback",
+		"price_cartola": 6.59,
+		"price": 6.89,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "botafogo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+		"id": 91664,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Adryelson",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/07/22/14348c2e4c10290cc281ebe6928885ab_140x140.png",
+		"points": 1.0015840747229976,
+		"position": "defender",
+		"price_cartola": 6.56,
+		"price": 5.99,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "botafogo",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+		"id": 86686,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "T. Tchê",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/14/0837ace715e5ba9dc6b7efa8744ddb15_140x140.png",
+		"points": 0.9941986841891316,
+		"position": "midfielder",
+		"price_cartola": 4.11,
+		"price": 4.37,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "juventude",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+		"id": 82540,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Pegorari",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/08/05/519f094ee4ceaabd76b534c7a1728c63_140x140.png",
+		"points": 0.9942369892525369,
+		"position": "goalkeeper",
+		"price_cartola": 5.57,
+		"price": 5.92,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "juventude",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+		"id": 108133,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Pitta",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/06/d5b98eae02b3de3352cd02c6cc1b5c36_140x140.png",
+		"points": 1.0031289575539,
+		"position": "forward",
+		"price_cartola": 5.28,
+		"price": 4.51,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "juventude",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+		"id": 71719,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Elton",
+		"photo": "https://s.glbimg.com/es/sde/f/2021/03/25/4acc17c022e5e1189305c3e76afa3528_140x140.png",
+		"points": 0.9955880119265955,
+		"position": "midfielder",
+		"price_cartola": 3.99,
+		"price": 2.69,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "juventude",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+		"id": 93716,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "P. Henrique",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/03/8240fae5ce98e7a47c5fe5b7e18c773b_140x140.png",
+		"points": 0.9985048807903228,
+		"position": "fullback",
+		"price_cartola": 4.59,
+		"price": 4.59,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "juventude",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+		"id": 86675,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "R. Soares",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/03/9c3587675488eeeb0991d8754b8cee2b_140x140.png",
+		"points": 0.995685042307703,
+		"position": "fullback",
+		"price_cartola": 2.97,
+		"price": 2.68,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "juventude",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+		"id": 120445,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Rafinha",
+		"photo": "https://storage.googleapis.com/bkt-gglobo-sde-hdg-prd-sdeadmin_prod/media/person_role/2022/08/29/photo_220x220_7oZ7Rod.png",
+		"points": 0.9944007296008852,
+		"position": "midfielder",
+		"price_cartola": 0.89,
+		"price": 1.12,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "juventude",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+		"id": 120895,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "L. Zanella",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/10/04/photo_220x220_Uu44maB.png",
+		"points": 0.9944007296008852,
+		"position": "coach",
+		"price_cartola": 5.89,
+		"price": 5.64,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "juventude",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+		"id": 94894,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Capixaba",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/03/9bdded7e0046ad8500605256f741994b_140x140.png",
+		"points": 1.0041914103552991,
+		"position": "forward",
+		"price_cartola": 5.7,
+		"price": 5.53,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "juventude",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+		"id": 97448,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "T. Kelven",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/24/5003d976abc2848d0ded5ed466986ba3_140x140.png",
+		"points": 0.9892819287030145,
+		"position": "defender",
+		"price_cartola": 1.72,
+		"price": 2.07,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "juventude",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+		"id": 82407,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Chico",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/03/bf75c9042be591192c025ebc1a87b001_140x140.png",
+		"points": 0.9987733228837903,
+		"position": "midfielder",
+		"price_cartola": 6.74,
+		"price": 6.47,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "juventude",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+		"id": 80129,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Jadson",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/03/f6f0935d45f36314cddff53717eee8de_140x140.png",
+		"points": 0.9995802213533099,
+		"position": "midfielder",
+		"price_cartola": 6.99,
+		"price": 7.23,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "juventude",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+		"id": 104401,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "V. Mendes",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/13/e5945941323ae30dc69b5ecb9ea3cfda_140x140.png",
+		"points": 0.9898252200940382,
+		"position": "defender",
+		"price_cartola": 3.82,
+		"price": 3.82,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "atletico-go",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+		"id": 90715,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "L. Fernando",
+		"photo": "https://s.sde.globo.com/media/person_role/2022/04/30/1d40d4deebb60cfac62aee9763f8e18f_140x140.png",
+		"points": 1.0026763596380106,
+		"position": "forward",
+		"price_cartola": 5.02,
+		"price": 5.09,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "atletico-go",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+		"id": 97133,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Dudu",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/03/b0bce50f61a2478463da6058f9be7677_140x140.png",
+		"points": 0.9950568959007957,
+		"position": "fullback",
+		"price_cartola": 6.67,
+		"price": 6.89,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "atletico-go",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+		"id": 86629,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "A. Henrique",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/03/ac8a8dbf454accfda9793bed640e7799_140x140.png",
+		"points": 1.001291144994138,
+		"position": "fullback",
+		"price_cartola": 3.54,
+		"price": 3.26,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "atletico-go",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+		"id": 82766,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "W. Rato",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/03/f1c021275405991e817f4277af535a6a_140x140.png",
+		"points": 1.0027159138799882,
+		"position": "midfielder",
+		"price_cartola": 11.2,
+		"price": 11.67,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "atletico-go",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+		"id": 60795,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Renan",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/03/78210d6f3d7ee04d9e4cfdfdc910c757_140x140.png",
+		"points": 0.9998546092292605,
+		"position": "goalkeeper",
+		"price_cartola": 4.54,
+		"price": 3.97,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "atletico-go",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+		"id": 99440,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Baralhas",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/03/23016221adbd611a74993ecdc84843f5_140x140.png",
+		"points": 0.9986902805292297,
+		"position": "midfielder",
+		"price_cartola": 9.67,
+		"price": 9.67,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "atletico-go",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+		"id": 106107,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Airton",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/03/8bedf67e65f96c1ee15936a016347f09_140x140.png",
+		"points": 0.9968057713712186,
+		"position": "forward",
+		"price_cartola": 5.83,
+		"price": 5.83,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "atletico-go",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+		"id": 88406,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "E. Souza",
+		"photo": "https://s.sde.globo.com/media/person_role/2021/05/18/3eff8b36039d819b6583407b9c2b8823_140x140.png",
+		"points": 0.9953472763849149,
+		"position": "coach",
+		"price_cartola": 6.98,
+		"price": 7.29,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "atletico-go",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+		"id": 87262,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "W. Maranhão",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/07/22/3d441c6c216df311f638855e5ae9f952_140x140.png",
+		"points": 0.9951761783473279,
+		"position": "midfielder",
+		"price_cartola": 3.12,
+		"price": 3.14,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "atletico-go",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+		"id": 86143,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Wanderson",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/03/03/e4318c57015f1d5169d4e83fc7af4813_140x140.png",
+		"points": 0.9950107083238082,
+		"position": "defender",
+		"price_cartola": 2.23,
+		"price": 2.69,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "atletico-go",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+		"id": 116589,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "L. Gazal",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/07/22/de95b3fbede3ee5abdf1c4f555c03bb6_140x140.png",
+		"points": 0.9960835242408673,
+		"position": "defender",
+		"price_cartola": 1.14,
+		"price": 0.97,
+		"timestamp": "2022-10-16T21:00:00Z"
+	},
+	{
+		"club": "atletico-go",
+		"club_badge": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+		"id": 98289,
+		"materialized_at": "2022-10-15T21:28:25.882364Z",
+		"name": "Churín",
+		"photo": "https://s.glbimg.com/es/sde/f/2022/04/07/9a194b1a94b42ab9128ae5de58f877b1_140x140.png",
+		"points": 0.9956819040050385,
+		"position": "forward",
+		"price_cartola": 6.2,
+		"price": 7.61,
+		"timestamp": "2022-10-16T21:00:00Z"
 	}
 ]

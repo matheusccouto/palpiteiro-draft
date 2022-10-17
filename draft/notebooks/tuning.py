@@ -171,8 +171,8 @@ import pandas as pd
 import plotly.express as px
 
 MAX_POINTS = max_points  # team points
-MAX_DIFF = 0.1  # Difference ratio
-MAX_TIME = 10  # Seconds
+MAX_DIFF = 0.05  # Difference ratio
+MAX_TIME = 5  # Seconds
 
 
 def metric(points, diff, time_elapsed):
@@ -228,7 +228,7 @@ from draft.draft.algorithm.genetic import Genetic
 
 optuna.logging.set_verbosity(optuna.logging.ERROR)
 
-N_TIMES = 5
+N_TIMES = 10
 N_TRIALS = 100
 
 

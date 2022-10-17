@@ -34,7 +34,7 @@ def test_time(event):
     start = time.time()
     draft.handler(event=event, context=None)
     end = time.time()
-    assert end - start < 5
+    assert end - start < 10
 
 
 def test_amount_of_players(event):

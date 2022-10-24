@@ -15,10 +15,8 @@ jobs:
       fail-fast: false
       matrix:
         path:
-          - date_filter
           - draft
-          - dropout
-          - read_bigquery
+          - parse
 
     steps:
       - name: Checkout repo

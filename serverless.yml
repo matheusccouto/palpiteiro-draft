@@ -74,7 +74,7 @@ stepFunctions:
       definition:
         StartAt: Parse
         States:
-          Parser:
+          Parse:
             Type: Task
             Resource: arn:aws:states:::lambda:invoke
             Parameters:

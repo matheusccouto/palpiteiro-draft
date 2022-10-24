@@ -34,7 +34,7 @@ functions:
         - "!draft/notebooks/**/*"
 
   parse:
-    handler: read_bigquery.handler
+    handler: parse.handler
     description: Parse arguments for drafting.
     runtime: python3.9
     timeout: 900

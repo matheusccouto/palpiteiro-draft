@@ -69,14 +69,26 @@ def dropout_clubs(players, dropout):
 def handler(event, context=None):  # pylint: disable=unused-argument
     """Lambda handler."""
     if "express" in event["game"]:
-        event["players"] = read_bigquery(
-            "SELECT *, price_cartola_express AS price FROM palpiteiro.dim_player_last"
-        )
+        query = """
+            SELECT
+                *,
+                price_cartola_express AS price
+            FROM
+                palpiteiro.dim_player_last
+            WHERE
+                position != 'coach'
+        """
+        event["players"] = read_bigquery(query)
 
     elif "cartola" in event["game"]:
-        event["players"] = read_bigquery(
-            "SELECT *, price_cartola AS price FROM palpiteiro.dim_player_last"
-        )
+        query = """
+            SELECT
+                *,
+                price_cartola AS price
+            FROM
+                palpiteiro.dim_player_last
+        """
+        event["players"] = read_bigquery(query)
 
     if event["dropout"]:
         if "all" in event["dropout_type"]:

@@ -41,6 +41,11 @@ def test_return_serializable(players):  # pylint: disable=unused-argument
             "players": players,
             "game": "custom",
             "dropout": 0.1,
+        },
+        {
+            "players": players,
+            "game": "custom",
+            "dropout": 0.1,
             "dropout_type": "all",
         },
         {

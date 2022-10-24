@@ -91,7 +91,7 @@ def handler(event, context=None):  # pylint: disable=unused-argument
         event["players"] = read_bigquery(query)
 
     if event["dropout"]:
-        if "all" in event["dropout_type"]:
+        if "dropout_type" not in event or "all" in event["dropout_type"]:
             event["players"] = dropout_players(event["players"], event["dropout"])
         elif "position" in event["dropout_type"]:
             event["players"] = dropout_position(event["players"], event["dropout"])

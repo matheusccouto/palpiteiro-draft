@@ -10,11 +10,9 @@ on:
       - serverless.yml
       - requirements-*.txt
       - utils/**
-      - date_filter/*.py
       - draft/*.py
       - draft/draft/*.py
-      - dropout/*.py
-      - read_bigquery/*.py
+      - parse/*.py
 
 jobs:
   deploy:

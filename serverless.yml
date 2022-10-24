@@ -33,34 +33,14 @@ functions:
         - "!draft/tests/**/*"
         - "!draft/notebooks/**/*"
 
-  dropout:
-    handler: dropout.handler
-    description: Droupout players for increasing variance for Cartola Express.
-    runtime: python3.9
-    timeout: 1 # seconds
-    memorySize: 128 # megabytes
-    package:
-      patterns:
-        - "dropout/**/*.py"
-
-  date-filter:
-    handler: date_filter.handler
-    description: Filter player by date for daily.
-    runtime: python3.9
-    timeout: 1 # seconds
-    memorySize: 128 # megabytes
-    package:
-      patterns:
-        - "date_filter/**/*.py"
-
-  read-gbq:
-    handler: read_bigquery.handler
-    description: Read from Google Big Query.
+  parse:
+    handler: parse.handler
+    description: Parse arguments for drafting.
     runtime: python3.9
     timeout: 900
     package:
       patterns:
-        - "read_bigquery/*.py"
+        - "parse/*.py"
     layers:
       - { Ref: BigqueryLambdaLayer }
     environment:
@@ -92,67 +72,14 @@ stepFunctions:
                     "stateMachineArn": "arn:aws:states:${self:provider.region}:${aws:accountId}:stateMachine:${self:service}-${opt:stage}"
                   }
       definition:
-        StartAt: Choice
+        StartAt: Parse
         States:
-          Choice:
-            Type: Choice
-            Choices:
-              - Variable: "$.game"
-                StringEquals: cartola-express
-                Next: Cartola Express
-              - Variable: "$.game"
-                StringEquals: custom
-                Next: Custom
-            Default: Cartola
-          Cartola Express:
-            Type: Pass
-            Next: Read Google Big Query
-            Result:
-              query: SELECT *, price_cartola_express AS price FROM palpiteiro.dim_player_last
-            ResultPath: "$.output"
-          Cartola:
-            Type: Pass
-            Next: Read Google Big Query
-            Result:
-              query: SELECT *, price_cartola AS price FROM palpiteiro.dim_player_last
-            ResultPath: "$.output"
-          Custom:
-            Type: Pass
-            Next: Dropout
-          Read Google Big Query:
+          Parse:
             Type: Task
             Resource: arn:aws:states:::lambda:invoke
             Parameters:
               FunctionName:
-                Fn::GetAtt: [read-gbq, Arn]
-              Payload.$: "$"
-            InputPath: "$.output"
-            ResultSelector:
-              players.$: $.Payload
-            ResultPath: "$.output"
-            Next: Date Filter
-          Date Filter:
-            Type: Task
-            Resource: arn:aws:states:::lambda:invoke
-            Parameters:
-              FunctionName:
-                Fn::GetAtt: [date-filter, Arn]
-              Payload:
-                players.$: $.output.players
-                scheme.$: $.scheme
-                price.$: $.price
-                max_players_per_club.$: $.max_players_per_club
-                bench.$: $.bench
-                date.$: $.date
-                dropout.$: $.dropout
-            OutputPath: $.Payload
-            Next: Dropout
-          Dropout:
-            Type: Task
-            Resource: arn:aws:states:::lambda:invoke
-            Parameters:
-              FunctionName:
-                Fn::GetAtt: [dropout, Arn]
+                Fn::GetAtt: [parse, Arn]
               Payload.$: "$"
             OutputPath: $.Payload
             Next: Draft

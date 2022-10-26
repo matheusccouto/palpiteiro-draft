@@ -93,11 +93,9 @@ def handler(event, context=None):  # pylint: disable=unused-argument
     if event["dropout"]:
         if "dropout_type" not in event or "all" in event["dropout_type"]:
             event["players"] = dropout_players(event["players"], event["dropout"])
-        elif "position" in event["dropout_type"]:
+        if "position" in event["dropout_type"]:
             event["players"] = dropout_position(event["players"], event["dropout"])
-        elif "club" in event["dropout_type"]:
+        if "club" in event["dropout_type"]:
             event["players"] = dropout_clubs(event["players"], event["dropout"])
-        else:
-            raise ValueError("Could not recognize dropout_type.")
 
     return event
